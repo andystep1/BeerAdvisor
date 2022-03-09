@@ -1,23 +1,835 @@
-Название пива,Ссылка на логотип,Сорт пива,ABV,IBU,Оценка,Описание,Сайт
-Heineken,https://untappd.akamaized.net/site/beer_logos/beer-5860_a68ef_sm.jpeg,Lager - Pale,5%,19,2.94,"Heineken is a 5% ABV euro pale lager, made by Heineken International since 1873. It is available in a 4.3% alcohol by volume, in countries such as Ireland. It is the flagship product of the company and is made of purified water, malted barley, hops, and yeast. In 1886 H. Elion finished the development of the Heineken A-yeast. This is the yeast that is still used for the beer. The beer is force carbonated. It is popular in the United States, Europe and Middle Eastern countries.",https://untappd.com/b/heineken-heineken/5860
-Corona Extra,https://untappd.akamaized.net/site/beer_logos/beer-5848_e34c0_sm.jpeg,Lager - American,4.6%,18,3.1,"Corona Extra Mexican Beer is a crisp, clean and well balanced cerveza with fruity-honey aromas and a touch of malt, making it a great tailgating beer, beach drink or barbecue refreshment.",https://untappd.com/b/grupo-modelo-corona-extra/5848
-Sapporo Premium Beer,https://untappd.akamaized.net/site/beer_logos/beer-17636_dbf93_sm.jpeg,Lager - Pale,4.9%,18,3.17,"The original. The icon. Sapporo Premium Beer is a refreshing lager with a crisp, refined flavor and a clean finish. The perfect beer to pair with any meal and any occasion.",https://untappd.com/b/sapporo-breweries-sapporo-premium-beer/17636
-Weihenstephaner Hefeweissbier,https://untappd.akamaized.net/site/beer_logos/beer-8745_3a3cd_sm.jpeg,Wheat Beer - Hefeweizen,5.4%,14,3.79,"Our golden-yellow wheat beer, with its fine-pored white foam, smells of cloves and impresses consumers with its refreshing banana flavour. It is full bodied and with a smooth yeast taste. To be enjoyed at any time (always a pleasure / enjoyment), goes excellently with fish and seafood, with spicy cheese and especially with the traditional Bavarian veal sausage. Brewed according to our centuries-old brewing tradition on the Weihenstephan hill.",https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-hefeweissbier/8745
-Newcastle Brown Ale,https://untappd.akamaized.net/site/beer_logos/beer-5856_9797e_sm.jpeg,Brown Ale - English,4.7%,18,3.4,"Newcastle Brown Ale is a brand of beer produced by Heineken International. The beer was introduced in 1927 in Newcastle upon Tyne, England, by Newcastle Breweries, which became Scottish & Newcastle in 1960. In 2005, brewing was moved out of Newcastle for the first time to the other side of the River Tyne, to Dunston in Gateshead. In 2009, it was announced that production would move to Tadcaster North Yorkshire.",https://untappd.com/b/john-smith-s-newcastle-brown-ale/5856
-London Pride,https://untappd.akamaized.net/site/beer_logos/beer-2762_8aebd_sm.jpeg,English Bitter,4.1%,30,3.41,"Brewed under the watchful eye of our Griffin since the 1950s, London Pride is unmistakably London's beer. With its well-rounded flavour and rich history, everything about this authentic, characterful beer binds it to our capital city and the people who love it.
+name,style,ABV,IBU,rating,description
+Abk Hell,Lager - Helles,5%,No,3.39,"This is a light, bright and very satisfying beer.
+
+Lightly golden with a bubbly, medium white head that steadily shrinks to a thin foamy lace, the aroma is soft and sweet with grain and very flowery hops.
+
+The taste is full bodied grain with lots of green apple and light but persistent hints of pine and herbs, with a light bitterness that persists through to the finish.
+
+Eminently satisfying."
+Adnams Ghost Ship,Pale Ale - English,4.5%,40,3.51,"Adnams Ghost Ship has good bitterness with attractive lemon and lime aromas. Ghost Ship is a ghostly pale ale which takes its inspiration from Adnams 600-year-old haunted pub, The Bell. Brewed with a selection of malts - Pale Ale, Rye Crystal and Cara. We use Citra, and a blend of other American hop varieties to create some great citrus flavours."
+Adnams Jack Brand Dry Hopped,Lager - Pale,4.2%,No,3.31,"Brewed with Pilsner malt – like all decent lagers – this authentic lager is then dry hopped with Australian Galaxy hops to add big, fruity hop flavours. Dry hopping allows us to pack more of a flavour punch and adds brilliant hop aromas. It’s then ‘lagered’ (cold conditioned) to produce a full, well rounded flavour. This golden lager is light, crisp and refreshing with subtle malty flavours and a super hoppy aroma of tropical fruits, citrus and passionfruit. "
+Adnams Jack Brand Ease Up IPA,IPA - Session,4.6%,No,3.56,"Gold in colour, with big aromas of mango, flavours of pine, melon and hints of grapefruit. A clean, dry finish, accompanied by subtle sweetness from the barley. A big hop bill, perfect for any session.
+
+Ease Up IPA is made using lager malt, oats, munich and cara fermented using a blend of American yeast strains and hopped with a star cast of Mosaic, Centennial, Simcoe, Galaxy, Goldings, Chinook and Amarillo."
+Adnams Jack Brand Innovation IPA,IPA - American,6.7%,No,3.46,"The hops in Innovation are the stars of the show. We used Boadicea, Columbus and Styrian Goldings hops to create punchy grapefruit flavours and aromas of tropical fruits. These are backed up by wheat and pale ale malted barley which add spicy, biscuit flavours and a slight touch of sweetness. The outcome is a wonderfully moreish IPA, packed full of flavour.
+
+What’s the story?
+
+Upon opening our new brewery, Chairman Jonathan Adnams declared, “We should have a beer to celebrate!”
+
+Of course, he didn’t just see what was lurking at the back of the fridge, oh no. He and the team set about creating one, and this is what they came up with.
+
+Want to know more?
+
+Innovation is the first release of the Jack Brand range of beers. Jack Brand pays homage to the generations of brewers that have come before us and is a happy marriage of the best of the new with the best of the old. It’s a firm nod to our history, with a lively, exciting slurp of the modern."
+Adnams Jack Brand Mosaic,Pale Ale - English,4.1%,45,3.45,"The Mosaic hop variety was released in 2012 after a successful crossing of two hop varieties called Simcoe and Nugget which captured the best of these varieties to provide clean bitterness and outstanding flavours and aromas. Mosaic hops are similar to Citra, but has an even more intense flavour.
+
+Fergus and the team added the Mosiac hops at three stages during the boil, and once again during fermentation. This has imparted bold hop characters of peach, mango, lemon and pine. All these lovely flavours are complemented by pale ale malt, lager malt and a touch of light cara malt to gently balance the beer whilst allowing the fruity hop flavours to shine through.
+
+The result is a blonde beer with a dry, hoppy finish and bags of Mosaic personality.
+
+Available in cask, with 330ml bottles and keg to follow in late March 2014."
+Ahornberger Landbrauerei Marzen,Märzen,5.3%,No,3.38,Описание отсутствует
+Aldaris 1865,Lager - Pale,4.8%,20,2.98,Aldara 150 gadu jubilejas alus
+Aldaris Gaisais,Lager - Pale,5%,20,2.87,Описание отсутствует
+Aldaris Luksus,Lager - Pale,5.2%,No,2.86,Описание отсутствует
+Aldaris Pilzenes,Pilsner - Other,4.2%,15,2.82,Описание отсутствует
+Alska Nordic Berries cider,Cider - Other Fruit,4%,No,3.66,Описание отсутствует
+Amstel,Lager - Pale,5%,21,2.86,"The distinctive, golden Amstel ® beer with its mildly bitter taste and excellent quality has become well known around the World.
+
+- Al sinds 1870 wordt Amstel Pilsener volmout gebrouwen met natuurlijke ingrediënten. Het resultaat is een helder goudgeel bier met een volle, toegankelijke smaak en een stevige schuimkraag. Het perfecte bier om te delen met vrienden.
+
+- Amstel 100% malta es el inicio de todo, nuestro máximo motivo de orgullo. Originaria de Ámsterdam, su receta hecha únicamente con ingredientes naturales se mantiene intacta desde 1870, conservando la tradición de los maestros cerveceros."
+Amstel 0.0,Non-Alcoholic Beer,No,No,1.99,Amstel 0.0% is een geheel alcoholvrij bier met de vertrouwde smaak van Amstel. Bovendien bevat Amstel 0.0% slechts 25 calorieën per 100ml. Dat is nou verantwoord genieten.
+Amstel Natur Light Non-Alcoholic,Non-Alcoholic Beer,No,No,3.19,Non-alco beer with orange & grapefruit juice
+Amstel Natur Lime Non-Alcoholic,Non-Alcoholic Beer,No,No,2.64,"Amstel Radler Limoen-Munt 0.0% is de verfrissende mix van 0.0% bier, limoen en een vleugje munt. Door de bijzondere combinatie van limoen en munt heeft deze Radler een verrassende en frisse smaak. Drink Amstel Radler Limoen-Munt 0.0% op het werk, voor of tijdens het sporten of onderweg."
+Amstel Natur Raspberry Non-Alcoholic,Non-Alcoholic Beer,0.3%,No,3.2,Non-alcoholic beer with raspberry & lime juice.
+Amstel Premium,Pilsner - Czech,5%,No,2.94,Описание отсутствует
+Amsterdam Navigator,Lager - Strong,8%,No,2.8,Описание отсутствует
+Apostel Brau,Pilsner - German,5%,No,2.73,Описание отсутствует
+Arcobrau Mooser Liesl,Lager - Helles,5.3%,15,3.48,Описание отсутствует
+Arcobrau Urfass,Lager - Helles,5.2%,No,3.2,Описание отсутствует
+Arsenalnoe Extra,Lager - Strong,7%,14,2.48,"
+Особенно крепкое «мужское» пиво с сильным, полным и терпким вкусом, в котором некоторая резкость уравновешена алкогольной сладостью. «Арсенальное» готовится из очищенной воды, светлого ячменного солода и пивоваренного ячменя.
+
+«Мужской» характер этого пива был выкован в городе знаменитых оружейных мастеров — Туле. Именно на тульском заводе «Арсенальное» производилось изначально, впитывая силу и гордый дух старинного города.
+
+An especially strong «manly» beer with distinctive, clear and harsh taste, which is balanced by alcohol sweetness. Arsenalnoe is brewed from purified water, pale barley malt and malt barley.
+
+Originally, Arsenalnoe was brewed in a Tula brewery, soaking up the strength and proud spirit of the ancient city."
+Arsenalnoe Traditional,Lager - Pale,4.7%,16,2.49,"Традиционный для светлого пива вкус дополняется достаточно высокой крепостью, придавая пиву «Арсенальное традиционное» классическое «мужское» звучание.
+«Арсенальное» готовится из очищенной воды, светлого ячменного солода и пивоваренного ячменя.
+
+The traditional taste of pale beer is complemented by fairly Strong robustness, giving a classical «manly» tone to Arsenalnoe Traditional.
+
+Arsenalnoe is brewed from purified water, pale barley malt and malt barley."
+Asahi Super DRY,Lager - Japanese Rice,5%,20,3.09,"ABV is 5.2% for the international version.
+
+Asahi Super Dry is brewed with precision to very high quality standards, under the supervision of Japanese master brewers. Our Advanced brewing techniques deliver a dry, crisp taste and quick clean finish. We call it Karakuchi taste."
+Augustijn,Belgian Dubbel,8%,No,3.5,Описание отсутствует
+Bakalar Medovy,Honey Beer,5.8%,No,3.28,"Speciální světlé pivo bohaté chuti, s nádechem chmelové hořkosti a doznívajícím podtónem lesního medu. 
+
+Special lager beer characterized by rich taste with a touch of hop bitterness and base notes of forest honey."
+Bakalar Nealko,Non-Alcoholic Beer,0.5%,No,3.02,"Jediné nealkoholické pivo za studena chmelené. 
+Jeho vyvážená chuť je dána dokonalým spojením sladového základu vařeného s vysoce kvalitním chmelem a sušených chmelových hlávek Žateckého poloraného červeňáku, které jsou v pivu macerovány po celou dobu ležení a dodávají nealkoholickému pivu nezaměnitelnou a ničím nenahraditelnou vůni a chuť. 
+"
+Bakalar Svetle Desitka,Pilsner - Czech,4%,No,3.17,"Lehčí pivo, příjemně hořké, vyvážené chuti a zlaté barvy.
+
+A lighter beer of nicely bitter, well-balanced taste and golden colour."
+Bakalar Svetly,Pilsner - Czech,4.9%,No,3.24,"Oblíbený ležák plné chuti, vařený podle tradiční receptury. Vyznačuje se chmelovou hořkostí, zlatou barvou a bohatou pěnou.
+
+A premium beer, a popular full-tasted lager brewed according to traditional recipe characterized by hop bitterness, golden colour, and rich foam."
+Bakalar Za Studena Chmeleny,Pilsner - Czech,5.2%,No,3.33,"Nezaměnitelné pivo s vyšší původní stupňovitostí, charakteristické nádherným aroma sušených chmelových hlávek Žateckého poloraného červeňáku a sytou barvou s temně zlatými odlesky.
+
+An unmistakable beer with a higher original volume, characterized by a wonderful aroma of dried Saaz hops and a rich colour with dark golden reflections."
+Baltika -0,Non-Alcoholic Beer,0.5%,16,2.47,"Безалкогольное пиво, которое изготавливается по технологии мембранной фильтрации – бережного удаления алкоголя из готового пива. Именно этот метод позволяет производить безалкогольное пиво, не отличающееся по вкусовым качествам от пива, содержащего алкоголь. При этом используется классическая рецептура и высококачественное сырье.
+«Балтика 0» имеет традиционный вкус и аромат светлого пива со сладковатыми нотками.
+
+This alcohol-free beer began production in 2001. It has a mild taste with a gorgeous malt aroma and ideally corresponds to the classic beer style.
+
+The ingredients are water, pale barley malt, maltose syrup and hops."
+Baltika -0 Grapefruit,Non-Alcoholic Beer,0.5%,No,3.09,"Освежающее нефильтрованное безалкогольное пиво с ярким насыщенным вкусом и грейпфрутовым соком. Это абсолютно новый вкус в линейке, который позволит освежиться и насладиться каждый моментом в течение дня.
+
+""Baltika 0 Grapefruit"" is a refreshing, unfiltered alcohol free beer with a rich intense flavor and grapefruit juice. This is a completely new taste in the range, which will allow you to freshen up and enjoy every moment throughout the day."
+Baltika -0 Lime,Non-Alcoholic Beer,0.5%,No,3.07,"Освежающий микс безалкогольного пива и нот лайма во вкусе и аромате. В состав напитка входят натуральные ингредиенты и витамины В, С, Е, а удобный формат банки 0,33 л позволяет освежиться в любой момент дня и в любом месте."
+Baltika -0 Wheat,Non-Alcoholic Beer,0.5%,16,2.9,"Новый уникальный сорт безалкогольного пива от Балтики 0 — нефильтрованное пшеничное.
+
+Нефильтрованное пшеничное от Балтики 0 — это: особенная свежесть, плотная пена и приятные фруктовые нотки в сочетании с мягким вкусом данного сорта.
+
+Baltika No. 0 Unfiltered Wheat nonalcoholic is a beer, where especial freshness, solid beer foam and pleasant fruit hints find a perfect combination with its mild flavor. In order to keep richness of the flavor, we do not filter our beer, but remove alcohol at the very last stage of the brewing."
+Baltika -3,Pilsner - Other,4.8%,10,2.86,"Классический европейский пилснер, при приготовлении которого использованы не только горькие, но и ароматические сорта хмеля.
+Это единственное российское пиво, которое варится в Германии.
+
+A classical European pilsner brewed with bitter and aroma hop.The only Russian beer also brewed in Germany."
+Baltika -7,Lager - Dortmunder / Export,5.4%,14,3.02,"Вкус пива «Балтика 7» отличается особой мягкостью с приятной освежающей горчинкой в послевкусии. Душистые сорта благородного хмеля придают гармоничному вкусу «Балтики 7» не только свежий, слегка горчащий оттенок, но и выраженный эфирный аромат с лёгкой спиртовой ноткой. Сегодня «Балтика 7» экспортируется в более чем 75 стран мира.
+
+Baltika No. 7 has a distinctively soft taste with a pleasantly refreshing aftertaste. Due to elite aroma hops, the harmonious taste of Baltika No. 7 has fresh, slightly bitter accents and pronounced ethereal aroma with subtle alcohol notes. Today, Baltika No. 7 is exported to more than 75 countries worldwide."
+Baltika -9,Lager - Strong,8%,18,2.99,"«Балтика 9» обладает насыщенным и приятным вкусом с выраженной горечью хмеля и нотой сладости. Удивительная крепость этого сорта достигается исключительно естественным брожением по уникальной методике с использованием специальной расы дрожжей.
+
+Baltika No. 9 boasts a rich and pleasant taste with pronounced bitterness of hops and sweetness overtones.
+
+This beer owes its amazing strength solely to natural fermentation based on a unique technology that uses special yeast strains."
+Bavaria,Pilsner - Other,5%,18,2.85,"Bavaria Pilsener 5% is een helder lichtblond pils, gebrouwen met gerstemout, natuurlijk mineraalwater en hop. Fris, fruitig, licht hoppig met een frisse afdronk, wat Bavaria pilsener een toegankelijk, zuiver en doordrinkbaar pils maakt. 
+
+Bavaria Pilsener is a clear blonde beer. Bavaria is brewed with natural ingredients like mineral water and barley that has been malted in-house, by Bavaria. A refreshing, fruity and a delicious fresh aftertaste is what makes Bavaria Pilsener a casual beer."
+Baltika -3,Pilsner - Other,4.8%,10,2.86,"Классический европейский пилснер, при приготовлении которого использованы не только горькие, но и ароматические сорта хмеля.
+Это единственное российское пиво, которое варится в Германии.
+
+A classical European pilsner brewed with bitter and aroma hop.The only Russian beer also brewed in Germany."
+Baltika -7,Lager - Dortmunder / Export,5.4%,14,3.02,"Вкус пива «Балтика 7» отличается особой мягкостью с приятной освежающей горчинкой в послевкусии. Душистые сорта благородного хмеля придают гармоничному вкусу «Балтики 7» не только свежий, слегка горчащий оттенок, но и выраженный эфирный аромат с лёгкой спиртовой ноткой. Сегодня «Балтика 7» экспортируется в более чем 75 стран мира.
+
+Baltika No. 7 has a distinctively soft taste with a pleasantly refreshing aftertaste. Due to elite aroma hops, the harmonious taste of Baltika No. 7 has fresh, slightly bitter accents and pronounced ethereal aroma with subtle alcohol notes. Today, Baltika No. 7 is exported to more than 75 countries worldwide."
+Baltika -9,Lager - Strong,8%,18,2.99,"«Балтика 9» обладает насыщенным и приятным вкусом с выраженной горечью хмеля и нотой сладости. Удивительная крепость этого сорта достигается исключительно естественным брожением по уникальной методике с использованием специальной расы дрожжей.
+
+Baltika No. 9 boasts a rich and pleasant taste with pronounced bitterness of hops and sweetness overtones.
+
+This beer owes its amazing strength solely to natural fermentation based on a unique technology that uses special yeast strains."
+Bavaria,Pilsner - Other,5%,18,2.85,"Bavaria Pilsener 5% is een helder lichtblond pils, gebrouwen met gerstemout, natuurlijk mineraalwater en hop. Fris, fruitig, licht hoppig met een frisse afdronk, wat Bavaria pilsener een toegankelijk, zuiver en doordrinkbaar pils maakt. 
+
+Bavaria Pilsener is a clear blonde beer. Bavaria is brewed with natural ingredients like mineral water and barley that has been malted in-house, by Bavaria. A refreshing, fruity and a delicious fresh aftertaste is what makes Bavaria Pilsener a casual beer."
+Bavaria Malt Non-Alcoholic,Non-Alcoholic Beer,No,18,2.07,"Bavaria 0.0% is een alcoholvrij pilsener, gebrouwen met natuurlijk mineraalwater uit eigen bron. Een verfrissend, moutig en fris hoppig 0.0% bier met een aangename bitterheid in de afdronk. 
+
+Bavaria 0.0% is a non-alcoholic pilsener brewed with natural mineral water. A refreshing, malty and hoppy 0.0% beer with a pleasant bitterness in the aftertaste."
+Bayreuther Hell,Lager - Helles,4.9%,17,3.54,"A genuine Bavarian ""Helles"" – crisp, fresh, and full of flavor"
+Becks Blue Non-Alcoholic,Non-Alcoholic Beer,0.3%,12,2.31,Описание отсутствует
+Belgian Kriek,Fruit Beer,3.5%,No,3.36,"Since as long as people can remember, the brewers from the Senne Valley mixed their old beer with cherries.
+
+The “Belgian Kriek” is part of this tradition and has been adapted to modern taste - soft and very fruity, it attracts the modern consumer."
+Belhaven Black Scottish Stout,Stout - Irish Dry,4.2%,10,3.57,"Belhaven Black Scottish Stout really is something completely different. Bursting with roast coffee and chocolate flavours, this is a truly genuine and premium pint. Brewed using pure Scottish water and a unique blend of Scottish triple malts sourced from the finest locally grown barley.
+
+Belhaven Black was launched across the UK on 23rd January 2012. A day of Scottish pride indeed. Bottles will be available in your local supermarket from April 2012."
+Belhaven McCallum-s Sweet Scottish Stout,Stout - Milk / Sweet,4.1%,No,3.58,"McCallum's is a traditional Scottish stout - rich and dark in colour. A hint of fruit and a touch of sweetness makes it happiness in a bottle. More hops than a kangaroo - if you're a stout fan, you'll love McCallums."
+Belhaven Scottish Stout,Stout - Other,7%,50,3.65,Описание отсутствует
+Belle Vue Kriek Extra,Lambic - Kriek,4.1%,No,3.33,Описание отсутствует
+Benediktiner Hell,Lager - Helles,5%,17,3.39,"Formerly branded as Benediktiner Original, now sold as Benediktiner Hell."
+Benediktiner Weissbier,Wheat Beer - Hefeweizen,5.4%,13,3.56,"Like luminous amber suffused with orange highlights, Benediktiner Weissbier sparkles in the glass, with an opalescent appearance lent by the natural cloudiness of the yeast. Its rich, white head is characterised by a good density and fine texture. The pot-pourri of aromas combines strong caramel notes, with hints of honey and fruits, chief among them bananas and raisins. Each gently sparkling sip melts on the tongue and palate, bringing a distinct sense of refreshment. A full body, with a harmonious balance of sweet and a discrete bitterness in the background, creates a smooth, creamy mouthfeel."
+Berliner Kindl Jubilaums Pilsener,Pilsner - German,5.1%,27,3.1,Описание отсутствует
+Bernard Cherny Lezak,Lager - Dark,5%,24,3.45,"This unpasteurised dark lager is all about speciality malts. The combination of caramel, Bavarian,Pilsner, and colour malts results in its roasted character,which is an amazing alternative to the sharp grassiness of good Bohemian pilsners. After the first sip,you will be pleased by coffee, caramel and nutty flavors balanced with the bitterness of noble Saaz hops. The unique experience of this traditional lager is under scored by the EU protected geographical indication“Czech Beer”and several Czech and international degustation awards. Dip your nose into its brown head and enjoy the taste of this deep dark lager."
+Bernard Cvatecni Lezak,Pilsner - Czech,5%,34,3.32,"The Celebration lager with a fine yeast culture is an unpasteurized beer with distinctive flavor, fine yeast taste and aroma. There can be a yeasty sediment on the bottom of the bottle, and the beer can be slightly cloudy during the consumation."
+Birra Moretti L-Autentica,Lager - Pale,4.6%,12,3.14,"Birra Moretti is a quality beer made in the traditional way. It is the result of a production process that has remained almost unchanged since 1859.
+The best raw materials are used to make Birra Moretti, as well as a special blend of high quality hops that gives it a unique taste and fragrance, enhancing its perfectly balanced bitter taste.
+
+It is a bottom fermented beer with a golden colour. This colouring is a result of the type of malt used in brewing.
+Its alcohol content is 4.6% alcohol by volume. It is not a strong beer and is therefore perfect for drinking at lunch, at dinner or for evenings out with friends."
+Bishops Finger,Extra Special / Strong Bitter,5.2%,No,3.33,"*ABV cask 5.0%; bottle 5.4%; can 5.2%* Fashioned on a firm, fruity foundation of Crystal malt, this rich, ruby-coloured Kent classic belies its burly appearance with a complexity of flavour. Mouth-filling fruit â€“ prunes, plums and dried apricot â€“ spiked with palate-prickling pepper, cinnamon and a soft bitter blood-orange finish."
+Bitburger Drive 0-0- Alkoholfreies Pils,Non-Alcoholic Beer,No,25,2.32,"Bitburger Premium Pils Drive Alkoholfrei 0,0% – This beer shows a resplendent straw-colored gold with stable, white foam. Sweet, roasty aromas coalesce with honey and fresh Gingerbread and are complemented by ripe grain and pleasantly bitter herbs. A delicate tingly fresh taste with lasting hops and notes of vermouth are finished with a bittersweet malty flavour for the full-flavoured taste."
+Bitburger Premium Pils,Pilsner - German,4.8%,23,3.2,"Vollendeter hopfenbetonter Pilsgenuss kombiniert mit Leichtigkeit und Eleganz, dazu ein kristallklares, sonniges Strohgelb und ein anhaltender, feinporiger Schaum: Nur aus besten Rohstoffen nach deutschem Reinheitsgebot gebraut, überzeugt unser Bitburger Premium Pils nicht ohne Grund als das meistgezapfte Bier an deutschen Theken. Sein fassfrischer Geschmack macht unser Premium Bier so beliebt."
+Blanche Bruxelles,Wheat Beer - Witbier / Blanche,4.5%,18,3.56,"The “Witteke” is a typical beer from the past. It was characteristic for farm-based breweries.
+
+The craft brewers used the best ingredients from their own harvest. Blanche de Bruxelles owes its natural cloudiness to the presence of wheat (40%). During the boiling process, natural aromas are added - coriander and dried orange peel.
+
+You will note its freshness and refinement upon tasting, typical for this extraordinary white beer. The brewing method, which includes the gradual addition of hot water, takes a long time.
+
+Just like all the other beers produced by Lefebvre, this beer is not filtered. If served correctly, it produces a cloudy beer with a white head."
+Blanche De Namur,Wheat Beer - Witbier / Blanche,4.5%,11,3.41,"""Cloudy, smooth and mellow, the Blanche de Namur is a very high-quality wheatbeer. From the first sip, you will feel all its roundness and its delicacy that make it an outstanding wheatbeer. 
+
+Its qualities and the brewery’s know-how earned it the honour of being named the best wheatbeer in the world (2009).""
+
+Description
+
+Appearance : Blond, cloudy and milky colour (colloidal turbidity when cold): the cloudiness is created when the beer is cold but can disappear when the beer warms up or is kept in the cold for too long a time.
+Aroma : Fine fruity, revealing the spices used: coriander and bitter orange.
+Taste : Mellow beer, thirst-quenching but smooth, slightly acid flavour, powdery consistency on the tongue, not bitter.
+Remark : Best when drunk between 2° and 4°C.
+Packaging : 25 cl, 33cl, 75 cl, 1.5 l, keg
+
+Serving suggestions
+Game, red meats, highly-seasoned white meats."
+Blue Moon,Wheat Beer - Witbier / Blanche,5.4%,9,3.5,"Blue Moon Belgian White, Belgian-style wheat ale, is a refreshing, medium-bodied, unfiltered Belgian-style wheat ale spiced with fresh coriander and orange peel for a uniquely complex taste and an uncommonly smooth finish."
+Boddingtons Pub Ale,English Bitter,4.6%,No,3.38,"Boddingtons Pub Ale is a higher ABV version of Boddingtons Bitter brewed for Export Markets. 
+
+Boddingtons has been enjoyed by beer drinkers in England for more than 200 years, and is well known for its creamy head and smooth body.
+
+Boddingtons is a refreshing, smooth beer renowned for its golden colour, full-bodied flavour and malty, moreish taste with smooth, tight creamy head."
+Bowler IPA,IPA - American,6.1%,70,3.47,"Когда ценителям эля хочется более сложного напитка, они не раздумывая заказывают бокал Bowler IPA (India Pale Ale). Этот пивной вулкан не разочарует. Являясь родственником классического Bowler Brilliant Ale, он отличается более ощутимой горечью, ароматом, крепостью и плотностью. 
+
+История IPA уходит во времена колонизации Индии, куда английским солдатам привозили эль. Чтобы напиток мог выдержать долгое морское путешествие и не потерять вкусовые особенности, его варили с добавлением большего количества хмеля. Неожиданно эта вынужденная хитрость привела к созданию нового сорта.
+
+Bowler IPA сварен в американском стиле с использованием хмеля из США: Амарилло, Мозаик, Эльдорадо, Центенниал и ADHA- 7. Результат - янтарь в бокале с выраженной горечью в послевкусии. Особого внимания заслуживает аромат Bowler IPA, в букете которого гармонируют цитрусовые, цветочные, сосновые и фруктовые ноты за счет добавления хмелей. Он достигается методом «сухого охмеления», когда в конце варки добавляют еще хмеля Амарилло и Мозаик."
+Brewdog Indie,Pale Ale - International,4.2%,30,3.17,"Indie is an icon of independence, destined to live independently. This is Craft Beer for the People.
+
+A 4.2% pale ale for the 21st century; stripped back and sessionable, this beer is designed to be accessible.
+
+Thi Independent Pale Ale delivers light pear and banana notes against a caramel and biscuit malt backbone. It is suitable for any drinking occasion and ready to go when you (or anyone else) needs it."
+Brewdog Punk IPA,IPA - American,5.2%,35,3.73,"Punk IPA is the beer that kick-started it. This light, golden classic has been subverted with new world hops to create an explosion of flavour. Bursts of caramel and tropical fruit with an all-out riot of grapefruit, pineapple and lychee, precede a spiky bitter finish. This is the beer that started it all - and it’s not done yet...
+
+PUNK - Quintessential Empire with an anarchic twist.
+Malts:
+Marris Otter Extra Pale.
+
+Hops:
+Chinook, Simcoe, Ahtanum, Nelson Sauvin."
+Bud Light,Lager - American Light,4.2%,6,2.32,"Bud Light is brewed using a blend of premium aroma hop varieties, both American-grown and imported, and a combination of barley malts and rice. Its superior drinkability and refreshing flavor makes it the world’s favorite light beer."
+Bud Zero,Non-Alcoholic Beer,0.5%,No,2.23,Описание отсутствует
+Budweiser Budvar,Pilsner - Czech,5%,32,3.28,"Czechvar in North America.
+
+Our premium pale lager is beer for real connoisseurs. The first-class female cones of top-quality Saaz hops, pure clean natural water from 300-metre deep artesian wells and carefully selected grains of a unique cultivar of Moravian barely make the premium lager a drink for real beer experts.
+
+A 750-year long tradition of brewing the original Beer from Budweis and a unique 90-day long maturing period amplify the beer’s exceptionality even more. Budweiser Budvar Premium Pale Lager can thus be savoured with all the senses. Firstly, your eye can see its beautiful golden colour and rich thick head, then you can smell its mild hop aroma and feel the misted glass in your palm, and finally use your taste buds to savour its mild medium-strong bitterness. Our premium pale lager will forever impress in your mind.
+"
+Budweiser Budvar Dark,Lager - Dark,4.7%,24,3.28,"Czechvar in North America.
+
+The premium dark lager has complemented Budweiser Budvar Brewery’s traditional product range. It is brewed in the same way as the premium pale lager, using first-class Saaz hops, Moravian malt, water drawn from 300-metre deep artesian wells and three types of special colour malted barley: Munich, caramel and roasted.
+
+The beer is characterised by a distinctly dark colour, a dry and mildly bitter caramel flavour without any dominant sweetness and a delicious aroma of roasted malt.
+
+Prémiový tmavý ležák doplňuje tradiční nabídku piva z pivovaru Budějovický Budvar, n. p. od roku 2004. Je vyroben stejným postupem jako originální světlý ležák, za použití nejvybranějšího žateckého chmele, moravského sladu, vody čerpané ze 300 m hlubokých artéských studní a tří druhů speciálních barevných ječných sladů: mnichovského, karamelového a praženého.
+
+Charakterizuje jej výrazně tmavá barva, suchá, jemně hořká karamelová chuť bez dominance sladkosti. Vůně je delikátní po praženém sladu."
+Budweiser Neallco,Non-Alcoholic Beer,0.5%,23,2.34,"To drink beer and drive? Then why not, if this beer is our Budweiser Budvar non-alcoholic beer. Our tradition in the production of Budweiser beer and the use of high quality natural ingredients in combination with a minimum content of alcohol make this beer suitable for all who do not deny its delicate, full flavour and, at the same time, their profession or condition do not allow the drinking of alcoholic beverages.
+
+Dát si pivo a sednout za volant? Proč ne, pokud tím pivem je náš nealkoholický Budweiser Budvar. Tradice výroby budějovického piva a použití kvalitních přírodních ingrediencí dělají z tohoto piva jediný vhodný nápoj pro všechny, kteří si nechtějí odepírat jeho lahodnou, plnou chuť a zároveň jim jejich profese neumožňuje pít běžné pivo."
+Burg Lager,Lager - Pale,5.5%,No,2.76,Описание отсутствует
+Burg Wheat,Wheat Beer - Hefeweizen,5%,No,3.13,Описание отсутствует
+CARLSBERG,Lager - Pale,5%,8,2.99,"Probably the best beer in the world, and the flagship brand in Carlsberg Group's portfolio. A regular in millions of bars across 140 countries worldwide, it is a truly international beer brand.
+
+Hordeum vulgare. That’s the Latin name for barley, but there’s nothing vulgar about it. In fact, it is a rather special malting barley we use. We have our own Barley Breeding Group, which works in close contact with our brewmasters.
+
+The group selects the barley with the best traits and grows it in our research fields, using only traditional breeding methods, 100% free of genetic modifications. Considering that Carlsberg is made from 100% pure malt i.e. no adjuncts it could take some years before we breed the necessary amount of barley. Probably worth the effort.
+
+Hops are our secret ingredient. Of course it is no secret that we use hops in our beer, but the types we use are prepared according to a secret recipe that’s exclusive to us. It’s called the Carlsberg Aroma Hop Extract and nobody but us at Carlsberg can use it. After all, there can only be one best beer in the world.
+
+Yeast is at the heart of our history. In 1879, Carlsberg was the first brewery to produce a purified brewer’s yeast, the Saccharomyces Carlsbergensis. Since then we’ve been constantly working to improve our yeast’s taste and the stability of our beer. We do it by using a classic breeding method, which means it can take up to 20 trials and several years to obtain a new yeast strain that’s good enough for brewing"
+Carlsberg 0.0,Non-Alcoholic Beer,No,No,2.45,Описание отсутствует
+Carlsberg Unfiltered,Pilsner - Other,4.2%,No,2.87,Описание отсутствует
+Cernovar Cerne,Lager - Dark,4.5%,No,3.35,"Klasický český tmavý ležák s bohatou chutí. Je dána speciální kombinací čtyř druhů sladu, které pivu dávají také plnost a výjimečnou karamelovou chuť a vůni. Příjemná hořkost a bohatá stabilní pěna dotvářejí jedinečný charakter piva.
+
+A traditional Czech dark lager with rich flavour given by a special combination of four types of malt, which also endows the beer with fullness and a unique caramel flavour and aroma. A pleasant bitterness and rich stable foam complete the unique character of the beer."
+Cernovar Svetle,Pilsner - Czech,4.9%,No,3.2,"Klasický český světlý ležák sytě zlaté barvy, dokonale vyvážené plné chuti se zřetelným dozvukem chmelové hořkosti a jemnou chmelovou vůní.
+
+A traditional Czech premium lager characterized by rich golden colour, perfectly balanced full flavour with a distinct aftertaste of hop bitterness and subtle hop aroma."
+Chang Classic,Lager - Pale,5%,12,2.9,"Contents from fine quality malt, rice, and hop, with natural water, and selected yeast, especially for Chang Beer. Brewed at 1. Cosmos Brewery (Thailand) Co. Ltd. 2. Beer Thip Brewery (1991) Co., Ltd. 3. Beer Thai (1991) Plc."
+Chester's Original Apple Semi Dry,Cider - Dry,5.5%,No,3.26,"Мягкий, утонченный сладкий вкус, с лёгкой и приятной сухостью в послевкусии.
+Полусухой яблочный сидр Chester's - это прекрасная замена полусухим и сухим винам. В производстве используются только свежие яблоки. Ненавязчивый аромат сидра является показателем соблюдения классической рецептуры сидров сухих сортов."
+Chester's Original Apple Sweet,Cider - Sweet,5.5%,No,3.38,"Насыщенный аромат с нотками спелых осенних яблок, приятной игристостью и с долгим бархатистым послевкусием.
+Традиционный английский сидр известен ещё с 1855 года, и с тех пор рецептура мало претерпела изменений. Сохраняя традиции, сидр Chester's производится по традиционному методу брожения из свежих яблок."
+Chester's Original Cherry,Cider - Sweet,5.5%,No,3.42,"Умеренно сладкий вкус с богатым насыщенным ароматом спелой вишни и нотками вишнёвой косточки в послевкусии.
+Рецептура и технология производства вишнёвого Chester's позволила добиться вкуса и аромата домашнего фруктового вина."
+Chester's Original Pear Sweet,Cider - Perry,5.5%,No,3.36,"Игристый напиток янтарного цвета со вкусом дюшесной груши и карамельно-фруктовым послевкусием.
+Лёгкий, сладкий и освежающий пуаре Chester's изготавливается путем сбраживания грушевого сока. В производстве используется только натуральный сок."
+Chester's Original Wild Berries,Cider - Other Fruit,5.5%,No,3.5,"Сбалансированый, освежающий и интенсивный вкус с нотками ягод лесной голубики.
+Уникальный рецепт разработан специально для Chester's. Аромат напитка отражает всю полноту красок душистых северных лесных ягод, особенно ярко выражен яромат спелой голубики. Сок голубики придаёт напитку особую мягкость и утонченную экстравагантность."
+Chimay Peres Trappister 150 (Green),Belgian Strong Golden Ale,10%,31,3.73,"Chimay 150 was brewed to celebrate the 150th birthday of the brewery based at the Abbey de Scourmont.
+
+Chimay 150 is a strong, blond beer that is refreshing and fruity, tasty and intense. Its mint, bergamot, lime and eucalyptus aromas are enhanced by a touch of invigorating ginger. Its mellow, rounded body and smoky, spicy flavour is typical of Chimay beers. Brewed with Saaz and Hallertau Mittelfrüh hops, a secret spice is added to produce this unique taste."
+Chimay Peres Trappister Cinq Cents (White),Belgian Tripel,8%,38,3.75,"Named Cinq Cents in 75 cl (25.4 fl.oz.) bottles, this beer, with its typical golden color, slightly hazy appearance and fine head, is especially characterized by its aroma which results from an agreeable combination of fresh hops and yeast.
+
+It was first brewed by the monks of Chimay at Scourmont Abbey in 1966.
+
+Above all it is the fruity notes of muscat and raisins that give this beer a particularly attractive aroma."
+Chimay Peres Trappister Dorée (Gold),Belgian Enkel / Patersbier,4.8%,16,3.56,"Brewed from very similar ingredients as the Première but paler and spiced with coriander. It was intended only to be consumed by the abbey monks or at the nearby inn Auberge de Poteaupré, which is associated with the abbey. The Dorée is now widely available to consumers and can is enjoyable as as a refreshing dessert beer, because it is lower in alcohol content than the rest of the Chimay family ales."
+Chimay Peres Trappister Grande Réserve (Blue),Belgian Strong Dark Ale,9%,35,3.92,"The Chimay Blue Cap, baptized ""Grande Reserve"" in 750 ml bottles is a dark Trappist beer with a powerful aroma, the complex flavor of which improves across the years. It was first brewed as a Christmas beer by the monks of Scourmont Abbey in 1956.
+
+This authentic Belgian beer, whose tinge of fresh yeast is associated with a light rosy flowery touch, is particularly pleasant. Its aroma, perceived as one enjoys it, only accents the delightful sensations revealed by the odor, all revealing a light but agreeable caramelized note. 
+
+It is ideally served at cellar temperature (10 to 12°C)."
+Chimay Peres Trappister Premier (RED),Belgian Dubbel,7%,19,3.74,"First sold in 75 cl (25.4 fl.oz.) bottles, it is noted for its copper color and as the first beer brewed by the monks of Chimay in 1862.
+
+Topped with a creamy head, it gives off a light, fruity apricot aroma produced by the fermentation. The taste perceived in the mouth is a balance confirming the fruity nuances noticed in the fragrance. 
+
+Its taste, which imparts a silky sensation to the tongue, is made refreshing by a light touch of bitterness. To the palate, the taster perceives a pleasant astringency which complements the flavor qualities of this beer very harmoniously.
+
+This top-fermented Trappist beer, re fermented in the bottle, is not pasteurized."
+Cidre Royal Apple Demi-Sec,Cider - Traditional / Apfelwein,5%,No,3.4,"Високоякісний напівсухий сидр, який ми виготовляємо з соку ранніх сортів яблук із нашого власного саду. Має вишуканий смак та тонкий аромат, притаманний англійським сидрам."
+Cidre Royal Cherry,Cider - Other Fruit,5%,No,3.41,Описание отсутствует
+Cidre Royal Pear,Cider - Perry,5%,No,3.38,"Особливий купажний сидр, створений змішуванням натурального зброженного соку з соком груші. Задоволення літа змішалися зі свіжістю грушевого сидру. Краще смакує, якщо пити сидр охолодженим, з льодом та шматочками фруктів."
+Clausthaler Dry Hopped Non-Alcoholic,Non-Alcoholic Beer,0.5%,No,2.97,"Full-bodied and hoppy with hints of malty caramel, Clausthaler Dry-Hopped is a beer connoisseur’s dream. As the first non-alcoholic of its kind, it brings together German craftsmanship, the world’s foremost non-alcoholic brewing technique, and Cascade Hops imported from the USA. This unique combination makes for an unmistakable citrus aftertaste and an amber beer with real character. Compared to Clausthaler Unfiltered, Clausthaler Dry Hopped has a distinctive malty character with a dark golden color."
+Clausthaler Lemon Non-Alcoholic,Non-Alcoholic Beer,0.2%,No,2.7,"Sold as Clausthaler Radler, Clausthaler Lemon and Clausthaler Radler Lemon, this is a mix of 40% Clausthaler Classic and 60% lemonade. The tasty shandy is bottom-fermented and refreshing. It blends Clausthaler’s trademark hoppy lager taste with a vibrant, zesty finish, all presented in an inviting, light-golden color. Best enjoyed chilled on a hot summer’s day."
+Clausthaler Original Non-Alcoholic,Non-Alcoholic Beer,0.5%,29,2.48,Formerly Clausthaler Classic.
+Corona Extra,Lager - American,4.6%,18,3.1,"Corona Extra Mexican Beer is a crisp, clean and well balanced cerveza with fruity-honey aromas and a touch of malt, making it a great tailgating beer, beach drink or barbecue refreshment."
+Corsendonk Agnus Tripel,Belgian Tripel,7.5%,30,3.64,This beer has hops aromas on the nose with spices and fruit notes. Spice on the palate with well-balanced bitterness lingering in the finish.
+DAB Dortmunder,Lager - Dortmunder / Export,5%,23,3.06,"Following the introduction of the bottom-fermented brewing process in the mid-19th century, a new beer type became popular and shaped the consumption habits of beer drinkers. The fresh, pale brew with its mildly hoppy flavour became one of the star products of its age. That is why Dortmunder style is considered a milestone in the development of beer culture in the world and became a synonym for superior quality. DAB Dortmunder Export is the finest example of the special bottom-fermented blond lager. It is a harmoniously balanced, crisp and easy-to-drink beer with pleasingly gentle notes of hops and malt. A very well-rounded taste profile with a soft and elegant texture."
+Delirium Argentum,IPA - Belgian,7%,48,3.62,"Colour and appearance: red amber, very dense fine white head.
+Fragrance: spicy, citrus, grapefruit, a hint of caramel in the nose.
+Flavour: full-bodied, intense and a touch of caramel. Together with the spicy, citrus-like bitterness, they give this beer a complex and very pleasant fresh, full and bitter aftertaste.
+History: specialty beer created to celebrate the twenty-fifth anniversary of Delirium Tremens."
+Delirium Red,Fruit Beer,8%,10,3.58,"Colour and sight: Deep dark red colour, with a light pink, compact and lacing head.
+Scent: Soft fruity aroma, with hints of almond and mildly sour cherries.
+Flavour: Sweet and fruity, with a nice balance between sweet and sour. An excellent dessert beer."
+Delirium Tremens,Belgian Strong Golden Ale,8.5%,24,3.87,"The allusion to pink elephants and the choice of names is not due to chance. With a particular character, the unique taste results from triple fermentation and the use of three different yeast strains. Sweet, biscuit malt backbone, supported by pleasant warmth and spice, finishes well rounded, floral, and dry."
+Dr. Diesel Cool Mix,Shandy / Radler,6%,No,2.48,Описание отсутствует
+Dr. Diesel Hot Mix,Fruit Beer,6%,No,2.75,Описание отсутствует
+Dr. Diesel Wild Mix,Fruit Beer,6%,No,2.69,Описание отсутствует
+Duvel,Belgian Strong Golden Ale,8.5%,33,3.74,"Duvel is a natural beer with a subtle bitterness, a refined flavour and a distinctive hop character. The unique brewing process, which takes about 90 days, guarantees a pure character, delicate effervescence and a pleasant sweet taste of alcohol.
+
+Apart from pure spring water, which is the main ingredient of beer, barley is the most important raw material. Barley must germinate for five days in the malt house, after which malt remains. The colour of the malt and as a consequence also of the beer is determined by the temperature. Duvel obtains its typical bitterness by adding various varieties of aromatic Slovenian and Czech hops. We use only exclusive hops that are renowned for their constant, outstanding quality.
+
+Duvel ferments for the first time in tanks at 20 to 26°C. The brewer uses his own culture for this. The original yeast strain, which Victor Moortgat himself selected in the 1920’s, originates from Scotland. After maturing in storage tanks in which the beer is cooled down to -2°C, the drink is ready for bottling. Thanks to the addition of extra sugars and yeast, the beer ferments again in the bottle. This occurs in warm cellars (24°C) and takes two weeks. Then the beer is moved to cold cellars, where it continues to mature and stabilise for a further six weeks. This extra long maturation period is unique and contributes to the refined flavour and pure taste of Duvel."
+Eboshi Original,Lager - American Light,4.9%,No,2.82,Описание отсутствует
+Ecusson Cidre Brut,Cider - Dry,5%,No,3.44,Описание отсутствует
+Ecusson Cidre Doux,Cider - Sweet,2.5%,No,3.16,Описание отсутствует
+Ecusson Cidre Rose,Cider - Rosé,3%,No,3.64,Описание отсутствует
+Edelweiss Non-Alcoholic,Non-Alcoholic Beer,0.5%,No,3.03,Описание отсутствует
+Edelweiss Wheat Beer,Wheat Beer - Hefeweizen,5%,9,3.33,"Edelweiss Wheat is naturally cloudy and of a bright, golden yellow colour. This particularly smooth beer is brewed with all natural ingredients: pure water and selected premium ingredients that guarantee a balanced taste and mild finish. The final touch of mountain herbs and spices (sage, coriander and elderflower), adds a unique fruitiness and highly refreshing after taste that will delight your senses."
+Efes Pilsener,Pilsner - Other,5%,22,2.92,Описание отсутствует
+Erdinger Alkoholfrei,Non-Alcoholic Beer,0.4%,17,2.86,"Erdinger Alkoholfrei is a great tasting non-alcoholic wheat beer and the ultimate sports and fitness beverage. Brewed in the traditional way, Erdinger master brewers have succeeded in retaining the aromatic, bodied Erdinger character in this non-alcoholic wheat beer. Erdinger Alkoholfrei is also the perfect balance of minerals, vitamins and carbohydrates to restore and rehydrate your body after a tough workout or game. Erdinger Alkoholfrei has the distinctive, sparkling flavour of a fresh wheat beer."
+Erdinger Dunkel,Wheat Beer - Dunkelweizen,5.3%,14,3.58,"Ausgesuchte dunkle Malze mit feinem Röstaroma machen ERDINGER Dunkel zu einem vollmundigen Genuss mit starkem Charakter.
+
+Edel und in tiefen Brauntönen glänzend füllt es das Glas. Beim ersten Schluck begeistert ein harmonischer Mehrklang von ausgesuchten dunklen Weizen- und Gerstenmalzen mit erstklassigem Hallertauer Aromahopfen. Karamellnoten, Anklänge an Nüsse und frisches Brot lassen sich erschmecken. Unverkennbar setzt die traditionelle ERDINGER-Hefe ihren obergärigen Akzent.
+
+Seinen Einstand hatte ERDINGER Dunkel 1989, als die ERDINGER Braumeister Werner Brombach, Inhaber der Privatbrauerei, zum Geburtstag ein dunkles Weißbier brauten. Der Beschenkte fand so großen Gefallen daran, dass er es 1990 auf den Markt brachte."
+Erdinger Weisbier,Wheat Beer - Hefeweizen,5.3%,13,3.65,"The Premium Weissbier at the top of its class. Not only in the context of the Erdinger assortment Erdinger Weissbier with fine yeast applies undisputed as the classical authors, as the white beer absolutely. It is brewed with fine yeast after a delivered prescription and naturally strictly after the Bavarian purity requirement. Today still without the traditional bottle fermentation one does not do here: Three to four weeks it lasts, until the Erdinger Weissbier with fine yeast matured. For the production only finest raw materials are used. Experience of many years and constant quality controls guarantee beyond that the unmistakable taste. A Weissbier for all, those the unforgettable good taste love."
+ESSA Lime & Mint,Fruit Beer,6.5%,No,2.42,"Пиво с нотками лайма и мяты - прекрасная альтернатива коктейлям и алкогольным лимонадам, которая станет отличным дополнением к любой вечеринке. Обладает сбалансированным освежающим кисло-сладким вкусом, дополненным приятным мятным ароматом."
+ESSA Orange & Cherry,Fruit Beer,6.5%,No,2.64,"Легкий солодовый тон сочетается с доминирующей фруктовой составляющей, давая напитку фруктовую полноту с приятными пивными нотками. Сочетание мягкой кислинки спелой вишни и благородной горчинки апельсина делает вкус неповторимым."
+ESSA Pineapple & Grapefruit,Fruit Beer,6.5%,No,2.59,"Пиво премиум-класса с сочным вкусом ананаса и грейпфрута. Пиво позиционируется как лучшая альтернатива коктейлям для вечеринок с друзьями, благодаря яркому фруктовому вкусу, правильному уровню алкоголя (6.5%) и имиджу активного тусовочного бренда."
+ESSA Pineapple & Grapefruit 0,Non-Alcoholic Beer,0.5%,No,2.93,Описание отсутствует
+Estrella Damm,Lager - Pale,4.6%,26,3.1,"Brewed in Barcelona with mediterranean ingredients since 1876.
+
+Estrella Damm has been brewed following the original 1876 recipe, using barley malt, rice, and hops. 100% natural ingredients.
+
+The quality of these ingredients is our first priority, and that is why we work directly with local Mediterranean farmers.
+
+Unlike many brewers, we have our own malthouse, which allows us to monitor the entire process first hand.
+
+Estrella Damm is a golden colour with tones of amber and slight shades of green. It is bright and sparkling, with a cream-coloured, long lasting head. It is a beer with lots of delicate, lively bubbles. The generous aroma is of fresh spices. The flavours of toasted grains add to the beer’s personality. The mouthfeel is smooth, thanks to the fine bubbles. Estrella Damm is a fresh-tasting beer, with a lively acidity."
+Estrella Daura Damm,Gluten-Free,5.4%,30,2.94,"The world's most award-winning gluten-free beer.
+Daura was launched in 2006. Since then it has received numerous awards from prestigious international competitions, being recognized as the best gluten-free beer in the world. 
+We can define Daura as the taste of ""the real beer"", as it is made with its main ingredient: barley malt.
+The mouthfeel is smooth thanks to the fine bubbles. Daura is a fresh-tasting beer, with a lively acidity. The finish is bitter and long lasting.
+Alcohol: 5.4% by volume."
+Estrella Inedit Damm,Wheat Beer - Witbier / Blanche,4.8%,11,3.5,"Inedit was created in 2008 by Damm’s master brewers, Ferran Adrià and the team of sommeliers at elBulli.
+It was brewed to pair with a wide variety of culinary creations, even the most complicated citrus-based dishes or ones with bitter notes It is a unique blend of malt barley and wheat, flavoured with coriander, licorice and orange zest making it a one-of-a-kind beer."
+FAXE Premium,Lager - Pale,5%,No,2.98,"ABV may vary for lisenced brews.
+Faxe Premium is a classic international premium lager with a smooth, distinctive taste. The combination of the finest malt, hops and own water results in a all-malt premium beer, which is full-bodied, but at the same time pleasantly mild with a round taste and a smooth mouthfeel. A crisp and well-balanced lager beer."
+Fischer Tradition,Pilsner - Other,6%,20,3.04,"C’est en 1982 qu’est lancée la Fischer® Tradition. Dès ses premiers jours, elle marque son originalité et sa créativité avec des codes atypiques : format 65cl, bouchon mécanique en porcelaine, bouteille gravée.
+
+La bière Fischer® Tradition arbore une robe blond doré limpide. De fermentation basse, type pils, elle est brassée avec du malt d’orge et des houblons alsaciens, elle titre 6 % vol alc.
+A consommer fraiche entre 7° et 9°, la Fischer® Tradition se distingue avec ses belles saveurs de céréales mûres et ses jolies notes équilibrées entre les houblons amers et les houblons aromatiques. Cette bière se consommera avec des spécialités alsaciennes, des pâtes mais aussi des grillades."
+Flensburg Gold,Lager - Dortmunder / Export,4.8%,18,3.23,Ein helles Lager in einer goldgelben Farbe. Abgefüllt in einer transparenten Bügelverschlussflasche. Die in dem natürlichen Aromahopfen vorhandenen ätherischen Öle verleihen dem Flensburger Gold einen sehr feinen und angenehmen Charakter. Vollmundig und weich.
+Flensburg Weizen,Wheat Beer - Hefeweizen,5.1%,15,3.43,Описание отсутствует
+FLENSBURGER,Pilsner - German,4.8%,38,3.28,"Unverwechselbar, herbwürzig und voller Geschmack. Mit erlesenen Zutaten in höchster Qualität und dem einzigartigen Wasser aus der Flensburger Gletscherquelle meisterhaft gebraut. Natürlich nach dem deutschen Rheinheitsgebot. Dafür stehen wir als unabhängige Familienbrauerei seit 1888."
+Franziskaner Premium Weissbier,Wheat Beer - Hefeweizen,5%,12,3.7,"Franziskaner Hefe-Weissbier Naturtrüb ist ein natürlicher und eleganter Weissbierprotagonist aus Bayern mit einem üppig weißen Schaum. Das kupfergoldene Weizenbier mit hefetrüber Opaleszenz entfaltet einen aromatischen Duft mit harmonischer Frucht in dem Bananen und Zitrusfrüchte grüßen lassen.
+
+Durch den höheren Kohlensäuregehalt ist es besonders spritzig und perlend. Seinen unverwechselbaren besonders frischen, dezent würzigen und fruchtigen Geschmack mit mild-süßlichem Ausklang entfaltet Franziskaner Hefe-Weissbier Naturtrüb beim genussvollen Herunterschlucken. "
+Freak Kriek Zero Point Three Feel Free Merry Cherry Beer,Non-Alcoholic Beer,0.3%,15,2.91,Refreshing non-alcoholic beer brewed with cherry juice.
+FRUH Kolsch,Kölsch,4.8%,19,3.31,"From the recipe by Peter Josef Früh of the family brewery, this top-fermented specialty beer features the best ingredients and is brewed according to the German Purity Law. A favourite beer of Cologne, which became one of the city’s original."
+Fullers London Pride,English Bitter,4.7%,No,3.51,"Brewed under the watchful eye of our Griffin since the 1950s, London Pride is unmistakably London's beer. With its well-rounded flavour and rich history, everything about this authentic, characterful beer binds it to our capital city and the people who love it.
 Cask: 4.1% ABV
-Bottle, Can and Keg: 4.7% ABV",https://untappd.com/b/fuller-s-brewery-london-pride/2762
-Original (TAP07),https://untappd.akamaized.net/site/beer_logos/beer-11982_950a6_sm.jpeg,Wheat Beer - Hefeweizen,5.4%,14,3.68,"It's the art of brewing in its purest form for true wheat beer connoisseurs: ""Original"" – the traditional wheat beer brewed unaltered in accordance with the original recipe of Georg I. Schneider since 1872 – and since then simply marquee. Of a deep amber colour, harmonically balanced and strong. That's what Bavaria tastes like. And that's also what coming home tastes like - in the comfort of your own four walls as well as at your convivial ""Stammtisch"".",https://untappd.com/b/schneider-weisse-g-schneider-and-sohn-original-tap07/11982
-Helle Weisse (TAP01),https://untappd.akamaized.net/site/beer_logos/beer-40151_48ab1_sm.jpeg,Wheat Beer - Hefeweizen,5.2%,14,3.61,"Enjoying the moment in high spirits: ""Meine helle Weisse"" - a bright wheat beer with the original Schneider Weisse aroma, full-bodied and intensive. Its mild freshness is reviving and lifts the senses. The perfect companion for daydreaming on a summer's afternoon - Bavarian zest for life!",https://untappd.com/b/schneider-weisse-g-schneider-and-sohn-helle-weisse-tap01/40151
-Hoegaarden Wit / Blanche,https://untappd.akamaized.net/site/beer_logos/beer-6422_60e97_sm.jpeg,Wheat Beer - Witbier / Blanche,4.9%,15,3.56,"500 years of hard work went into making this beer that features the aroma of orange peel, coriander and herbs that the merry monks imported from sunny Curacao. Speaking of which: pouring Hoegaarden is just like letting the sun fall into your glass: light yellow and naturally murky. And the soft foam adds a cloudy finish. And then there’s the soft taste, light and slightly sweet and sour and with subtle citrus notes… ah, just go ahead and taste it instead of reading about it!",https://untappd.com/b/brouwerij-hoegaarden-hoegaarden-wit-blanche/6422
-Okhota Krepkoe (Охота Крепкое),https://untappd.akamaized.net/site/beer_logos/beer-443584_406bb_sm.jpeg,Lager - Strong,8.1%,No,2.43,"«Охота Крепкое» варится по традиционному рецепту, и содержание алкоголя достигается исключительно естественным способом, благодаря дополнительной выдержке и процессу брожения.",https://untappd.com/b/heineken-brewery-obedinennye-pivovarni-hejneken-okhota-krepkoe-ohota-krepkoe/443584
-1664 Blanc,https://untappd.akamaized.net/site/beer_logos/beer-5999_bbc68_sm.jpeg,Wheat Beer - Witbier / Blanche,5%,7,3.49,"ABV MAY BE 4.5 DEPENDING ON THE MARKET ||| 1664 Blanc is an original wheat beer. It is a different, fresh and fruity white beer, slightly bitter with hints of citrus and coriander spices. With its modern and elegant blue bottle, 1664 Blanc is perfectly adapted to all moments of conviviality.",https://untappd.com/b/kronenbourg-brewery-1664-blanc/5999
-Budweiser,https://untappd.akamaized.net/site/beer_logos/beer-3783_b208c_sm.jpeg,Lager - American,5%,12,2.6,"Known as ""The King of Beers,"" Budweiser was first introduced by Adolphus Busch in 1876 and it's still brewed with the same high standards today. Budweiser is a medium-bodied, flavorful, crisp American-style lager. Brewed with the best barley malt and a blend of premium hop varieties, it is an icon of core American values like optimism and celebration.",https://untappd.com/b/anheuser-busch-budweiser/3783
-Spaten München / Münchner Hell / Premium Lager,https://untappd.akamaized.net/site/beer_logos/beer-1633_d78e8_sm.jpeg,Lager - Helles,5.2%,21,3.37,"Sold as Spaten Premium Lager in the U.S., Spaten München in the U.K. and Spaten Munich in Brazil",https://untappd.com/b/spaten-franziskaner-lowenbrau-gruppe-spaten-munchen-munchner-hell-premium-lager/1633
-Zhiguli Barnoe (Жигули Барное),https://untappd.akamaized.net/site/beer_logos/beer-26210_34f4c_sm.jpeg,Lager - Pale,4.9%,20,3.01,"Пиво «Жигули Барное» варится по фирменному рецепту 1968 года. Пиво из легендарного московского ресторана «Жигули», воплотившее в себе лучшие традиции 20 века. Отборный солод, тонкоароматный жатецкий хмель и мягкая вода с глубины 320 метров придают пиву «Жигули Барное» индивидуальный, неповторимый вкус. Процесс брожения занимает 21 день, что позволяет сохранить уникальный аромат хмеля, придать пиву освежающую горчинку и полное солодовое «тело».",https://untappd.com/b/moscow-brewing-company-moskovskaya-pivovarennaya-kompaniya-zhiguli-barnoe-zhiguli-barnoe/26210
-Miller Genuine Draft,https://untappd.akamaized.net/site/beer_logos/beer-3779_8ae90_sm.jpeg,Lager - American,4.66%,12,2.55,"Miller Genuine Draft debuted in 1985 with fresh, smooth flavor that's a result of being cold-filtered four times. As we capitalize on the growing trend towards \mainstream sophistication",https://untappd.com/b/miller-brewing-company-miller-genuine-draft/3779
-Hamovniki Venskoe (Хамовники Венское),https://untappd.akamaized.net/site/beer_logos/beer-229044_24214_sm.jpeg,Lager - Vienna,4.5%,21,3.14,"«Хамовники Венское» сварено с использованием специальных солодов, традиционных для стиля «Венский лагер». Это солода: светлый, венский, «Караред» и карамельный. При производстве применяется только тонко-ароматный благородный немецкий хмель: «Сапфир» и «Теттнангер», что придаёт пиву нежный цветочный аромат и очень мягкую горечь.",https://untappd.com/b/moscow-brewing-company-moskovskaya-pivovarennaya-kompaniya-hamovniki-venskoe-hamovniki-venskoe/229044
-Lagerbier Hell,https://untappd.akamaized.net/site/beer_logos/beer-9254_014d1_sm.jpeg,Lager - Helles,5.2%,12,3.65,"Ein besonders mildes, spritziges, lang gelagertes und vor allem erfrischendes Bier. Einmalig in seinem Geschmack, ein Genuss für jeden Bierkenner.",https://untappd.com/b/augustiner-brau-munchen-lagerbier-hell/9254
-Bayreuther Hell,https://untappd.akamaized.net/site/beer_logos/beer-116296_2dfe1_sm.jpeg,Lager - Helles,4.9%,17,3.54,"A genuine Bavarian ""Helles"" – crisp, fresh, and full of flavor",https://untappd.com/b/bayreuther-bierbrauerei-bayreuther-brauhaus-hell/116296
-Grolsch Premium Lager,https://untappd.akamaized.net/site/beer_logos/beer-7221_a0e35_sm.jpeg,Pilsner - Other,5%,28,3.25,"A traditional Pilsner style beer with a big hoppy flavour and bite owing to dry hopping late in the brewing process. The zesty and fragrant hops make for a refreshingly dry finish and a slight sweet and sharp zing to the palate, which are best enjoyed with rich, creamy foods like pork sausage and mustard mash, quality fish and chips or cheese like Old Amsterdam, Edam or Brie. Grolsch is known to use a distinctively shaped bottle for its beer, known as de beugel or 'swingtop'.",https://untappd.com/b/koninklijke-grolsch-grolsch-premium-lager/7221
-Amsterdam Navigator,https://untappd.akamaized.net/site/beer_logos/beer-17274_97ede_sm.jpeg,Lager - Strong,8%,No,2.8,,https://untappd.com/b/koninklijke-grolsch-amsterdam-navigator/17274
+Bottle, Can and Keg: 4.7% ABV"
+Gambrinus Original,Pilsner - Czech,4.3%,No,3.1,"I mimo hospodu naše desítka spolehlivě osvěží. V každé várce vyvažujeme ten správný poměr vlastního českého sladu a chmelové odrůdy Sládek, aby chutnala stejně od prvního do posledního doušku a vybízela k dalšímu napití."
+Garage Hard Black Cherry,Shandy / Radler,4.6%,No,3.04,Описание отсутствует
+Garage Hard Californian Pear,Shandy / Radler,4.6%,No,3.08,Описание отсутствует
+Garage Hard Lemon,Shandy / Radler,4.6%,No,3.05,Описание отсутствует
+Garage Hard Lingonberry,Shandy / Radler,4.6%,No,2.91,Описание отсутствует
+Gletcher Milk of Amnesia,IPA - Milkshake,5.5%,35,3.8,"Новую страницу в истории пивоварни мы начали с совместной варки при участии наших друзей из Anarchy Brew Co. (UK), которые смогли привнести в создание сорта английский дух бунтарства.
+ 
+Результат вылился в полноценную серию «милкшейков» с оригинальными базовыми вкусами: яблоко, клубника, персик и тропический микс. Благодаря фруктовой основе, вкус получился умеренно сладким, округлым и полнотелым. За аромат и продолжительную горчинку в финале отвечают хмели Магнум, Колумбус, Пекко и Комет.
+ 
+Выбери свою «молочную амнезию»!"
+Gletcher Nut Butter,Brown Ale - English,5.5%,10,3.78,"Совместно со старейшей пивоварней Британии Shepherd Neame мы отдали дань уважения многовековым традициям этой страны. Результатом коллаборации стал браун эль Nut Butter — некогда очень популярный в Британии стиль пива.
+В аромате чувствуются ириски, лесной орех и легкие ноты шоколада. Тело — среднее, бархатистого красно-коричневого цвета, с умеренной карбонизацией. Сладковатый, но не приторный вкус раскрывается умеренной хмелевой горчинкой и переходит в ореховый шлейф с карамельно-солодовыми тонами.
+Рекомендуем попробовать с рваной говядиной, лососем на гриле и миндальным тортом."
+Gold Mine Beer,Lager - Pale,4.6%,No,2.08,"Это освежающий лагер холодной фильтрации с узнаваемым золотистым цветом, приятным ароматом и мягким вкусом: пиво, которое легко утолит жажду в жаркие дни."
+Goose Island 312 Urban Wheat,Wheat Beer - American Pale Wheat,4.2%,18,3.43,"Inspired by the city of Chicago and densely populated with flavor, 312’s spicy aroma of Cascade hops is followed by a crisp, fruity ale flavor delivered in a smooth, creamy body that's immensely refreshing."
+Goose Island Ipa,IPA - American,5.9%,55,3.52,"Goose Island’s flagship IPA is a six-time medal winner at the Great American Beer Festival. We’ve taken the traditional English Style and created our own fuller flavored IPA with bright citrus aromas and a bold hop finish. With hoppy, bold, and smooth flavor, Goose IPA is the perfect beer for hopheads and discovery drinkers alike."
+Goose Island Midway,IPA - Session,4.1%,30,3.43,UK variant of Midway IPA with ABV of 4.1%
+Gorkovskaya Brewery American Amber Lager,Lager - American Amber / Red,5.2%,30,3.29,"Лагер в американском стиле янтарно-золотистого цвета. В аромате легкие цветочные ноты и цитрусовые тона с преобладанием грейпфрута. Насыщенный солодовый вкус гармонично сочетается с выраженной хмелевой горечью, которая остается ещё продолжительное время в послевкусии."
+Gorkovskaya Brewery India Pale Ale,IPA - American,5.9%,55,3.17,"Ароматный эль, сваренный в ставшем уже классическим стиле American IPA. Благодаря хмелям Citra и Amarillo обладает ярко выраженным ароматом цитрусов и тропических фруктов. Легко пьётся, гармонично сочетает в себе насыщенный вкус и умеренную хмелевую горечь. 
+"
+"Gorkovskaya Brewery IPA 0,0",Non-Alcoholic Beer,0.5%,30,3.6,"Безалкогольное пиво для любителей горьких и охмеленных сортов. Пиво производится с использованием собственного инновационного штамма дрожжей, благодаря чему получается пиво с очень низким содержанием алкоголя. Добавление лупулина позволило добиться более интенсивного, но деликатного хмелевого аромата. 
+IPA 0,0 обладает ярко выраженным ароматом цитрусовых (грейпфрут, лайм) и нотами тропических фруктов с комфортной хмелевой горечью. Пиво хорошо освежает и обладает легким послевкусием.
+На банке красуется грациозная зебра как символ безопасности на дороге (намек на пешеходный переход — «зебру»)."
+Gorkovskaya Brewery American Pale Ale,Pale Ale - American,5.5%,40,3.21,"Лёгкий эль сухого охмеления в стиле American Pale Ale. В ярко выраженном аромате американских хмелей Cascade и Citra переплетаются ноты полевых цветов, тропических фруктов и хвои. Обладает освежающим вкусом и приятной хмелевой горчинкой в послевкусии."
+Gorkovskaya Brewery Weizen,Wheat Beer - Hefeweizen,5%,13,3.05,Освежающее пшеничное пиво в немецком стиле. Варится с использованием пшеничного и карамельного солодов. Обладает ярким ароматом спелого банана и гвоздики c пряными и чуть копчёными тонами. Имеет мягкий сладковатый слегка зерновой вкус с приятной освежающей кислинкой.
+Gorkovskaya Brewery Bohemian Pils,Pilsner - Other,5.2%,30,3.01,"Рысь - лаская и неуловимая горная кошка из Татр, являющаяся настоящим символом Богемии. Именно она стала олицетворением нашего Bohemian Pils - светлого нефильтрованного сорта, имеющего богатый солодовый вкус и классический хмелевой аромат, который достигается за счёт добавления традиционного хмеля Saaz.
+
+Светло-золотистое освежающее пиво с насыщенным хмелевым букетом в аромате, который достигается за счёт традиционного чешского хмеля Saaz. Богатый и сложный солодовый вкус в сочетании с мягкой благородной горчинкой."
+Grevensteiner Natutrubes Helles,Lager - Helles,5.2%,No,3.32,This is the one with the blue label.
+Grevensteiner Original,Kellerbier / Zwickelbier,5.2%,23,3.43,Описание отсутствует
+Grimbergen Blanche,Wheat Beer - Witbier / Blanche,6%,13,3.51,"Belgian-style white beers have a long brewing tradition, as they have been brewed in Belgium – and at Grimbergen Abbey – since the 14th century. Again, the Fathers proved their expertise by brewing a refreshing white beer. To attain the unique character of an abbey beer, they used selected and exclusive raw ingredients. A light yellow colour, fine bubbles and aromas of fruits, citrus, cloves and coriander with notes of cereals and vanilla already make Grimbergen Blanche a special delight among white beers, but the fine taste of bergamot is what makes it a rare delicacy. It truly is one of a kind."
+Grimbergen Blonde,Belgian Blonde,6.7%,22,3.49,"When the first regular breweries were founded in the Middle Ages, beer filtration was not a common technology and few mastered it. Among these few were the Fathers of Grimbergen Abbey, who became renowned experts in craft brewing. Their masterpiece was the filtrated Grimbergen Blonde – a pure, smooth, blonde ale with ripe fruit flavours and no cloudiness – that stood out from other beers of the time. Today, it’s still an insider tip among beer connoisseurs around the world."
+Grimbergen Double Ambree,Belgian Dubbel,6.5%,22,3.48,"In the Middle Ages, regular beer brewers were far more heavily taxed than abbeys. Therefore, the Grimbergen Fathers used refined raw materials of a higher quality. Combining exclusive ingredients with their brewing expertise, they created Grimbergen Double-Ambrée, a dark-coloured amber ale with bittersweet flavours and hints of caramel, dried plums and double-fermented malts and hops. The beer was so delicious that people said it had “double” the taste!"
+Grolsch Premium Lager,Pilsner - Other,5%,28,3.25,"A traditional Pilsner style beer with a big hoppy flavour and bite owing to dry hopping late in the brewing process. The zesty and fragrant hops make for a refreshingly dry finish and a slight sweet and sharp zing to the palate, which are best enjoyed with rich, creamy foods like pork sausage and mustard mash, quality fish and chips or cheese like Old Amsterdam, Edam or Brie. Grolsch is known to use a distinctively shaped bottle for its beer, known as de beugel or 'swingtop'."
+Grolsch Premium Pilsner,Pilsner - Other,5%,28,3.25,"A traditional Pilsner style beer with a big hoppy flavour and bite owing to dry hopping late in the brewing process. The zesty and fragrant hops make for a refreshingly dry finish and a slight sweet and sharp zing to the palate, which are best enjoyed with rich, creamy foods like pork sausage and mustard mash, quality fish and chips or cheese like Old Amsterdam, Edam or Brie. Grolsch is known to use a distinctively shaped bottle for its beer, known as de beugel or 'swingtop'."
+Grossmeister,Lager - Pale,4.8%,No,2.88,Описание отсутствует
+Grossmeister Wheat Beer,Wheat Beer - Other,4.7%,No,3.26,Описание отсутствует
+Grotwerg Bayerisch Hell,Lager - Helles,4.7%,No,3.2,"Contract-brewed for importer Russian Tradition. Formerly brewed at Arcobrau, Memminger & Allgäuer Brauhaus."
+Guinnes Hop House 13,Lager - Pale,5%,21,3.35,"This is the 5.0% version of this beer.
+
+Named after an early 1900's hop store building at the Guinness Brewery, St. James's Gate, Ireland. Hop House 13 is a premium crafted lager, double hopped and brewed with Irish barley. The combination of three types of hops delivers a uniquely fresh hop aroma and crisp flavor with hints of apricot and peach."
+Guinnes Nitro IPA,IPA - English,5.8%,44,3.01,"Made in Dublin, Ireland at St. James's Gate, Guinness™ Nitro IPA is brewed with Irish barley malt, a touch of roasted barley and five hop varieties — Admiral, Celeia, Topaz, Challenger and Cascade. The Challenger, Cascade and Topaz hops are dry-hopped to accentuate a sharp citrus aroma. The beer's blend of CO2 and Nitrogen helps to balance out the profusion of hop flavors, while also creating the signature surge and settle made famous by Guinness™ Draught. The IPA is brewed with the same unique Guinness yeast strain used to ferment all stouts at St. James's Gate."
+Guinness Draught,Stout - Irish Dry,4.2%,45,3.77,"Swirling clouds tumble as the storm begins to calm. Settle. Breathe in the moment, then break through the smooth, light head to the bittersweet reward.
+
+Unmistakeably GUINNESS, from the first velvet sip to the last, lingering drop. And every deep-dark satisfying mouthful in between.
+
+Pure beauty. Pure GUINNESS.
+
+Guinness Draught is sold in kegs, widget cans, and bottles. The ABV varies from 4.1 to 4.3%.
+
+Guinness Extra Cold is the exact same beer only served through a super cooler at 3.5 °C"
+GuinnesWest Indies Porter,Porter - Other,6%,50,3.57,"A group of enterprising brewers on a quest to explore new recipes reinterpret old ones and collaborate freely to bring exciting beers to life.
+
+A style with origins from our brewers' diaries dating back to 1801, West Indies Porter is complex yet mellow, hoppy with notes of toffee and chocolate."
+Gulden Draak Classic,Belgian Strong Dark Ale,10.5%,30,3.79,"The authentic, dark red tripel.
+
+Such an impressive symbol that has been around for more than 6 centuries requires an equally impressive beer. Like the dragon at the top of the city, Gulden Draak has been one of the world's best beers for years. It is a dark tripel, which in itself makes it an exceptional beer, but the complex taste with notes of caramel, roasted malt and coffee makes it unique.
+
+For the secondary fermentation use is made of a wine yeast that determines the unparalleled taste and that ensures the long-term taste evolution (= living beer). The older the beer gets, the more aroma it gets and the fuller the taste and color become.
+
+www.guldendraak.be"
+Gulden Draak Quadruple,Belgian Quadrupel,10.5%,25,3.85,"An exceptional quadruple amber.
+
+The particularly rich and complex taste palette and the full head are also found in the Gulden Draak 9000 Quadruple. The sweet notes of caramel are, however, reserved for the Gulden Draak Classic.
+
+The new recipe based on 4 different malt varieties gives the Gulden Draak 9000 Quadruple a deep golden amber color and a slightly fruity aroma. Together with the soft and slightly sweet taste, this provides a beautifully rounded bouquet with notes of dried fruit.
+
+Just like the other specialty beers from Brewery Van Steenberge, Gulden Draak 9000 Quadruple is a high fermentation beer with secondary fermentation. For the secondary fermentation use is made of a wine yeast that not only contributes to the unparalleled taste but also ensures a long-term shelf life with taste evolution.
+
+www.guldendraak.be"
+Hacker Pschorr Kellerbier,Kellerbier / Zwickelbier,5.5%,15,3.53,"Honiggolden schimmert das Naturtrübe Kellerbier verführerisch im Licht. Ein Bier mit unverwechselbarem Charakter: urig, kernig, süffig und dennoch erfrischend mild und leicht. Ein echter Bayer eben.
+
+Cremig-moussierend – typisch für unfiltrierte Biere – perlt es genussvoll am Gaumen. Aromen von Karamell, Honig und Pflaume kommen ins Spiel und betonen das malzig-würzige Geschmackserlebnis. Dazu gesellen sich unverkennbar Nuancen von Apfel und Grapefruit, die dem Bier seine fruchtige Frische verleihen.
+
+Nach vier Wochen Reifezeit wird es unfiltriert abgefüllt und enthält so noch alle in der Hefe vorkommenden Vitamine und Spurenelemente."
+Hacker Pschorr Munchner gold,Lager - Dortmunder / Export,5.5%,15,3.51,"“Munich Gold” closely resembles our Münchner Hell in terms of taste and mainly owes its popularity to a slightly higher original gravity and the malty note. The result is a full-bodied yet mild taste which delivers an increasingly bitter note before culminating into an aromatic finish. A real treat for true beer connoisseurs! 
+
+The types of barley grown in the Swabian Jura and in the Upper Palatinate Region of Bavaria are excellently suited for the production of this timeless classic.
+
+Hacker-Pschorr has been brewing beer in the traditional Bavarian manner since 1417. The high-quality beers the brewery produces are all brewed in accordance with the Bavarian Purity Law and contain only water, malt and hops."
+Hamovniki Venskoe,Lager - Vienna,4.5%,21,3.15,"«Хамовники Венское» сварено с использованием специальных солодов, традиционных для стиля «Венский лагер». Это солода: светлый, венский, «Караред» и карамельный. При производстве применяется только тонко-ароматный благородный немецкий хмель: «Сапфир» и «Теттнангер», что придаёт пиву нежный цветочный аромат и очень мягкую горечь."
+Hasen Augsburger Original,Kellerbier / Zwickelbier,5.4%,25,3.4,Описание отсутствует
+Heineken,Lager - Pale,5%,19,2.94,"Heineken is a 5% ABV euro pale lager, made by Heineken International since 1873. It is available in a 4.3% alcohol by volume, in countries such as Ireland. It is the flagship product of the company and is made of purified water, malted barley, hops, and yeast. In 1886 H. Elion finished the development of the Heineken A-yeast. This is the yeast that is still used for the beer. The beer is force carbonated. It is popular in the United States, Europe and Middle Eastern countries."
+Heineken 0.0,Non-Alcoholic Beer,No,No,2.39,Het bijzondere aan Heineken 0.0 is dat het bier dubbel wordt gebrouwen met de beroemde Heineken A-gist. Vervolgens wordt de alcohol aan het einde van het brouwproces verwijderd om de beste smaak te krijgen.
+Hobgoblin Gold,Golden Ale,4.2%,No,3.46,"4.5% bottle 4.2% cask. The combination of four hop varieties & an infusion of wheat & malted barley results in a perfectly balanced golden beer - with a huge hop punch. Well what would you expect? Hops - Pilgrim; Nelson, Citra and Summit."
+Hobgoblin IPA,IPA - English,5.3%,50,3.52,"Available in bottles at 5.3% ABV and cans at 5% ABV.
+
+Heftily hopped & aroma packed, Hobgoblin IPA stays true to its ancestral traditions. Brewed with Fuggles, Goldings & Styrian hops & then amped up by the addition of some mighty American hops. This collision of Old & New World hops provides an explosion of tropical aroma & a juicy bitterness. Born out of character."
+Hobgoblin Ruby,Brown Ale - English,5.2%,32,3.42,"This beer is available in multiple ABV's. It's all the same beer, and does not require seperate entries.
+5.2% ABV in bottle
+4.5% ABV on cask and in cans
+3.5% for the Swedish market
+
+Traditionally brewed to produce a wonderfully well balanced blend of smooth, rich & satisfying flavours from chocolate & crystal malts combined with a crisp, refreshing bitterness from Styrian, Goldings and Fuggles hops.
+
+A unique and original beer with a character not unlike the Hobgoblin himself - surprisingly likeable... once you get to know him..."
+Hoegaarden ,Wheat Beer - Witbier / Blanche,4.9%,15,3.56,"500 years of hard work went into making this beer that features the aroma of orange peel, coriander and herbs that the merry monks imported from sunny Curacao. Speaking of which: pouring Hoegaarden is just like letting the sun fall into your glass: light yellow and naturally murky. And the soft foam adds a cloudy finish. And then there’s the soft taste, light and slightly sweet and sour and with subtle citrus notes… ah, just go ahead and taste it instead of reading about it!"
+Hoegaarden ROSEE,Fruit Beer,3%,No,3.04,"The story of the jam jars (see Myths & Legends) gave us an idea. Hoegaarden Rosée. It might be pink but it is very much a wheat beer. It also features the soft taste and subtle colour of raspberries. And while it doesn’t feature a higher alcohol percentage, it does mean you can enjoy it even more in the sun."
+Hoegaarden Wit Blanche,Non-Alcoholic Beer,No,No,2.91,Описание отсутствует
+Hofbrau Munchner Weisse,Wheat Beer - Hefeweizen,5.1%,14,3.71,"Once upon a time, Weissbier could only be brewed by ducal privilege. Hofbräuhaus enjoyed this exclusive right for nearly 200 years, thus holding a monopoly on Weissbier in Bavaria.
+
+But even without a monopoly, Münchner Weisse is a really special kind of beer. What could be more pleasurable than quenching your thirst with a deliciously yeasty Weissbier, and savouring the tingling, fizzy sensation in your mouth? With an alcoholic content of around 5,1% volume, it's pure, refreshing enjoyment."
+Hofbraun Original,Lager - Helles,5.1%,24,3.54,"Hofbräuhaus is a symbol of Munich’s hospitality and the Bavarian gift for creating a snug and cosy atmosphere. Beer-lovers from all over the world come here to enjoy its famous beers. More than any other, Hofbräu Original embodies the special atmosphere of the beer-making capital of Munich, and exports it to the four corners of the globe. Its refreshing, bitter flavour and alcoholic content of around 5.1% volume have made it famous worldwide. A Munich beer with character."
+Hollandia,Lager - Pale,5%,No,2.83,Описание отсутствует
+Holsten Premium,Pilsner - German,4.8%,29,2.9,"Holsten – classical light lager of the pilsner type with a bright and rich taste and pleasant bitterness in the aftertaste. In its production the traditions of German brewing is carefully preserved.
+
+Varying ABV depending on the market. Also sold at 4,0%, 4,5% and 5,0%."
+Iron Woods Milk Stout,Stout - Milk / Sweet,5.5%,15,3.62,"Следующая ступень эволюции нашего классического стаута.
+В приготовлении мы использовали лактозу, которая в комбинации с карамельными и шоколадными солодами дала мягкий сливочный вкус с нотками шоколада и кофе. Хмель добавлялся очень аккуратно, чтобы не сбить насыщенную ароматику солодов, но благодаря ему можно уловить слегка фруктовые ноты. Послевкусие сопровождает легкая сладость с оттенками карамели и бисквита.
+Прекрасно сочетается с говядиной барбекю, мягкими сырами и профитролями."
+Kalnapilis Grand Selec,Lager - Pale,5.4%,No,3.04,"Kalnapilis Grand Select - rich flavor, but light lager type beer.
+
+Strong, long-lasting foam, and a subtle hop aroma gives nobility SELECT and BREWER'S GOLD combination. It is mixed, but the beer finishes cooking. It retained all the best features. 100% barley malt ensures obviously richer, amber color and a rich, ripe flavors."
+Kalnapilis White Select,Wheat Beer - Witbier / Blanche,5%,No,3.26,White golden Belgian Witbier style beer with distinctive fruit flavours and citrus notes.
+Karlsbräu Helles,Lager - Helles,5%,17,3.21,Описание отсутствует
+Karlsbräu Weizen Hell,Wheat Beer - Hefeweizen,5.2%,12,3.39,Описание отсутствует
+Kedrwood,Lager - Pale,4.8%,No,2.21,Описание отсутствует
+Kilikia,Lager - Pale,4.8%,No,2.87,"A light beer with the aroma of natural hops and pleasant taste of malt. It is prepared using classical technology with the best sorts of malt and hop, especially grown and selected for Kilikia beer. It has a grain density of 12.5% and an alcohol’s content of 4.8% vol. It’s distributed in glass bottles of 0.33 litre, 0.5 litre and in kegs. Brewed with no artificial preservatives, but the natural pasteurization process guarantees a shelf life of minimum three months."
+Kilkenny Draught,Red Ale - Irish,4.3%,No,3.4,"Also sold as Kilkenny Draught.
+
+First Brewed 1710 St Francis Abbey.
+
+Kilkenny Irish Cream Ale, with its deep red hue and rich, creamy head delivers a distinctively smooth and flavourful taste."
+Kirin Ichiban,Lager - Pale,5%,18,3.13,"Kirin Ichiban Shibori is the name in the Japanese Market, whilst Kirin Ichiban is the name for export. 100% malt beer."
+Klaster Svetle,Pilsner - Czech,4%,No,3.2,"Klášter Světlé draft is a delicious, medium-fermented, harmonious beer with a fresh taste and a hoppy flavour. This beer is not heat-treated or pasteurised, and therefore it maintains the same taste as in our old brewery cellars dug into the rock.
+
+Klášter je lahodné, středně prokvašené, harmonické pivo s čerstvou chutí s chmelovým aroma. Nedochází k tepelnému ošetření pasterizací, a proto chutná stejně lahodně jako ve sklepích pivovaru, vytesaných dávnými kameníky ve skále."
+Klaster Tmave,Lager - Dark,4.1%,No,3.4,Описание отсутствует
+Koff,Lager - Pale,4.6%,16,2.42,"KOFF on kansainvälisesti palkittu aromaattinen lagerolut. Se on kevyesti humaloitu, kantavierteeltään keskivahva ja pehmeän makuinen. Väri on kirkas ja kullankeltainen, vaahto tiivis ja jälkimaku puhdas."
+Kometa IPA,IPA - American,6%,65,3.63,"Стремительная IPA Kometa с мощным хмелевым зарядом врывается на орбиту невероятным цитрусово-фруктовым ароматом, оставляя карамельное послевкусие с приятной горчинкой! Вкус гармоничный и насыщенный. Хмели: Chinook, Centennial и Cascade. На сухое охмеление - Amarillo и Citra."
+Konigsbarcher Weizen,Wheat Beer - Hefeweizen,5.1%,No,3.07,Описание отсутствует
+Kozel Cerny,Lager - Dark,3.8%,14,3.29,"Velkopopovický Kozel Dark beer is brewed to the original recipe using a special mix of dark malts, clean water from our own well close to the brewery, and a selection of the best hops. The caramelized malt gives this beer a unique ruby color and sweet flavor, thanks to which it is appreciated and respected all over the world.
+
+
+Velkopopovický Kozel Černý je vyráběný podle původní receptury ze speciální směsi tmavých sladů, čisté vody a výběru toho nejlepšího chmele. Karamelizovaný slad dodává pivu jedinečnou rubínovou barvu a sladkou chuť, díky níž je tak ceněn a uznáván po celém světě.
+
+Na rozdíl od jiných tmavých piv je pěna Černého Kozla tmavší."
+Kozel Svetly,Pilsner - Czech,4%,No,3.09,"Velkopopovický Kozel Pale beer is characterized by its delicate taste, and is great as a refreshment during the day or to relax with after a job well done.
+
+This deep fermented beer is perfect to enjoy with food. If you fancy experimenting, you can combine it with Kozel Dark beer, by mixing the beers in a glass in the 1:1 ratio, you will achieve a combination of malty, hoppy and caramel taste.
+
+
+Velkopopovický Kozel Světlý se vyznačuje hladkou chutí a hodí se k osvěžení během dne či k relaxaci po dobře odvedené práci. Má nádherně zlatavě žlutou barvu.
+
+Pokud chcete experimentovat, můžete si ho vychutnat také v kombinaci s Kozlem Černým. Kdy při smíchání piva ve sklenici v poměru 1:1 je výsledkem směs sladové, chmelové a karamelové chuti."
+Kriekenbier,Fruit Beer,4.5%,22,3.73,"Belgian cherry beers are world-renowned, and Kriekenbier is in a class all its own. This 4.5% cherry lager is a unique combination of our Belgian traditional lager beer mixed with fresh, local cherry juice. It’s an amazingly refreshing beer with a pleasant, fruity character and a smooth, lightly-malted finish. Kriekenbier has a vibrant, unique taste with a prideful aroma of cherries and a foamy head that represents generations of Belgian brewing heritage."
+"Krombacher 0,0% Pils",Non-Alcoholic Beer,No,No,2.51,Different to Krombacher Pils alkoholfrei as it doesn't have any ABV.
+Krombacher Hell,Lager - Helles,5%,No,3.25,Our golden Krombacher Hell is based on a careful selection of special malts and fine seal hops. The discreet note of hops together with our rock spring water ® Krombacher Hell is rounded off by a very pleasant malt sweetness in a full-bodied and palatable beer.
+Krombacher Pils,Pilsner - German,4.8%,24,3.26,"Krombacher Pils - A pearl of nature.
+
+Situated in beautiful natural surroundings, the pure Felsquellwasser® (mountain spring water) provides the essence of purity that is captured in the unmistakable taste adventure that Krombacher Pils brings us. The taste of our beer is quite decisively characterised by the water it is brewed with.
+With Krombacher Pils you enjoy a distinctive, finely bitter taste and a full-flavoured aroma – this is a genuine premium pilsner beer with an alcohol content of 4.8 %. Our modern production processes enhance the traditional recipe whilst complimenting the natural products that have been used for generations to create the unique brew that is Krombacher Pils.
+""Every 10th Pils consumed in Germany comes from Krombach. In Germany each second 60 glasses (0,2l) of Krombacher Pils are enjoyed."""
+Krombacher Weizen,Wheat Beer - Hefeweizen,5.3%,16,3.46,"This is a well balanced wheat beer. Vitamins, proteins and minerals are preserved during the brewing process producing a naturally tangy weizen golden colour with the unique Krombacher flavour."
+Kronenbourg,Lager - Pale,5.5%,20,3.11,"First brewed in 1952.
+Kronenbourg 1664 is France’s No.1 selling beer and the UK’s second-biggest selling premium lager.
+Kronenbourg 1664 is made with a unique blend of hops including aromatic hops from Alsace."
+Kronenbourg Blanc,Wheat Beer - Witbier / Blanche,5%,7,3.49,"ABV MAY BE 4.5 DEPENDING ON THE MARKET ||| 1664 Blanc is an original wheat beer. It is a different, fresh and fruity white beer, slightly bitter with hints of citrus and coriander spices. With its modern and elegant blue bottle, 1664 Blanc is perfectly adapted to all moments of conviviality."
+Krusovice Cherne,Lager - Dark,3.8%,19,3.14,"Pivo Krušovice Černé je tradičním výrobkem krušovického pivovaru již více než sto let a jeho výroba nebyla nikdy přerušena. Je dlouhodobě nejoceňovanějším tmavým pivem ve střední Evropě a nedají na něj dopustit ti, kdo mají rádi speciální, chuťově výrazná a přitom osvěžující piva.
+
+Krušovice Černé se vyznačuje plností, výraznou karamelovou chutí s tóny pražené kávy, jemnou chmelovou hořkostí. Nositelem výborných chuťových vlastností jsou vedle kvalitní pramenité vody z křivoklátských lesů a chmele ze žatecké chmelařské oblasti také speciální druhy ječných sladů - český, barevný, karamelový a mnichovský. Ty dodávají pivu jeho typicky tmavou barvu. Pivo se proto může používat jako skvělá ingredience k vaření, kdy jídlu dodává rafinovanou chuť. A co je důležité, nenajdete v něm žádná barviva ani doslazovadla.
+
+Složení: pitná voda z vlastních zdrojů, světlý ječný z jarního dvouřadého, karamelový slad, mnichovský slad, barevný slad, chmelová odrůda (Premiant)."
+Krusovice Imperial 5.0,Pilsner - Czech,5%,28,3.15,Описание отсутствует
+Krusovice Kralovska 10,Pilsner - Czech,4.2%,23,3.03,"Krušovice Řízná desítka je výborně pitelné pivo, které se vyznačuje čirou zlatou barvou a krémovou pěnou. Chuť a vůni ji dodávají tři druhy ječných sladů z vybraných odrůd kvalitního českého a moravského ječmene. Díky žateckému chmelu má příjemně vyznívající hořkost.
+
+Složení: pitná voda z vlastních zdrojů, světlý ječný slad jarního dvouřadého ječmene, karamelový slad, mnichovský slad, chmelové odrůdy (Žatecký poloranný červeňák, Premiant)."
+Krusovice Svetle,Pilsner - Czech,4.2%,23,3.03,Описание отсутствует
+Kulmbacher Edelherb,Pilsner - German,4.9%,32,3.3,Описание отсутствует
+Landbier Bayreuther Dunkel,Lager - Munich Dunkel,5.3%,19,3.43,"Ein Bier wie seine Heimat. Ursprünglich, ehrlich und charaktervoll präsentiert sich unser AKTIEN Landbier. Ein dunkles, würziges Bier darf in Franken bei einer deftigen Brotzeit in geselliger Atmosphäre nicht fehlen und prägt damit die Einzigartigkeit der fränkischen Lebensart. Dieser Tradition fühlen sich auch unsere Brauer verpflichtet. Die erlesene Auswahl von geröstetem Spezialmalz und hellem Gerstenmalz sowie das quellfrische Fichtelgebirgswasser verleihen unserem AKTIEN Landbier seinen typischen Charakter und sein feines Malzaroma."
+Landbier Zwickl Kellerbier,Kellerbier / Zwickelbier,5.3%,18,3.51,"AKTIEN Zwick’l Kellerbier is a specialty beer with a light delicate reddish color. It is unfiltered and therefore slightly opaque. Because of this, the natural ingredients such as protein, brewer's yeast and other flavor enhancers are fully retained and manifest themselves in a full-bodied spicy flavor with finely balanced nuances of malt and bitters."
+Lapin Kulta,Lager - Pale,5.2%,21,2.73,"The golden beer of Lapland.
+
+(Export version for foreign markets)"
+Leffe Ambree,Red Ale - Other,6.6%,25,3.39,Описание отсутствует
+Leffe Blonde,Belgian Blonde,6.6%,20,3.59,"In the fifties, an extraordinary meeting took place that all beer enthusiasts should raise their glass of Leffe to.   The abbey’s Father Abbot Nys became acquainted with Albert Lootvoet, a master brewer.  Passionate about the future of the brewery, Father Nys was upset to have to witness how, since the unpleasant stay of the French revolutionaries, the brewery had slowly fallen into decline and had eventually had to close its doors in 1809. Such a magnificent place could not be forgotten, he believed, and he vowed to bring the Leffe beer back. Father Nys and the brewer set about the challenge with vigour…and succeeded. Shortly after, the Leffe brewery was back in full effect. After Leffe Brown, a beer that shone brighter than the sun saw the light of day; they named it Leffe Blond – a beautiful chapter for Leffe indeed.
+
+Leffe Blond is the flagship of Leffe. The unique recipe is the fruit of centuries of experience in the art of brewing, which brings a broad palette of aromas into balance. It is elegant, smooth and fruity, and it has a spicy aftertaste with a hint of bitter orange. Its light, sunny colour is due to the use of pale malt. Leffe Blond contains 6.6 % alcohol and fits excellently with a wide variety of dishes. It is best at a temperature of 5° to 6° Celsius. A thirst-quenching aperitif, for those relaxing moments with friends and family."
+Leffe Brune,Brown Ale - Belgian,6.5%,20,3.55,"Dinant, 1240. In the heart of the Leffe district lies an abbey well-known among the village locals. One morning, the Premonstratensian Fathers that live in the abbey hold a meeting in the refectory on a subject that concerns all the inhabitants of Dinant: how can they avoid the epidemics that spread through contaminated water? After giving the subject some serious thought, the monks come to the idea to purify the water through a process they knew only too well: by turning it into beer.  Before long, the inhabitants of Dinant have the pleasure of discovering a deep, dark brown beer, and thousands of pilgrims passing through are more than happy to sample the monks’ hospitality. Leffe Brown was born. 
+
+“Leffe Brown’s soft, deep brown colour and the perfect balance between a discreetly bitter yet slightly caramelised taste can be ascribed to age-old traditions. Hints of coffee and chocolate provide this beer with an even more desirable flavour. Served in a Leffe chalice, the smooth, creamy beer head, the roasted aromas and the spiced flavour have the ability to suspend time.”"
+Leffe Ruby,Fruit Beer,5%,10,3.15," Leffe Ruby is a ruby red, refreshing beer born of the unique combination of the abbey beer, a soft note of wood and the delicate aroma of red forest fruits.
+
+“Only experienced hands managed the centuries old proceedings that give Leffe Ruby the typical red color and taste of an abbey beer. The natural refreshing flavor and the subtle notes of herbs, red fruit and rosewood bring your tastebuds to extasy. But in a Leffe glass this beer will really reveal its charms.”"
+Liebenbrau Helles,Lager - Helles,5.1%,No,3.12,Описание отсутствует
+Liebenweiss Hefe Weissbier,Wheat Beer - Hefeweizen,5.1%,No,3.53,Contract brewed for an export company based in Cyprus.
+Liebenweiss Hefe-Weissbier,Wheat Beer - Hefeweizen,5.5%,No,3.46,Описание отсутствует
+Love Memories,Sour - Fruited Berliner Weisse,4%,No,3.76,"Пивной напиток Love Memories Strawberry Berliner Weisse. Это пиво обладает освежающим вкусом и ароматом клубники, легкой горечью и будоражащий рецепторы приятной кислинкой в послевкусие, словно воспоминания о пылкой и страстной любви. Love Memories станет проводником в глубины вашей памяти, встревожит самые пикантные воспоминания и заново окунёт вас в океан позабытой страсти и любви."
+Lowenbrau Bockbier,Bock - Single / Traditional,8%,16,3.05,"Новый запуск от бренда Löwenbräu в крепком пиве – Löwenbräu Bockbier.
+
+Пиво Löwenbräu Bock впервые было произведено в 1848 году и стало своего родом пионером в сегменте крепкого пива в Германии – после этого многие пивоварни последовали его примеру со своими собственными марками. Löwenbräu Bockbier – это светлое пиво с насыщенным янтарным оттенком, повышенным содержанием алкоголя и сбалансированной жидкостью. Хороший выбор для тех, кто ценит крепкие сорта!"
+Lowenbrau Original,Lager - Helles,5.2%,19,3.15,"Brewed since 1383, Löwenbräu is still produced in Munich and is brewed according to the German Reinheitsgebot (purity law) that dates back to 1516.
+
+It’s a refreshing yet characteristic beer, slightly dry, spicy, with a trace of malt and delicately bitter."
+Lowenbrau Wheat 0.0,Non-Alcoholic Beer,No,No,3.21,"Сорт варится по специальному рецепту для нефильтрованного пшеничного пива, поэтому оно обладает мягкой сладостью и легкой кислотностью. Вкус раскрывается нотами меда, банана, апельсинов, трав и гвоздики. Напиток имеет пышную и густую кремообразную пену с небольшими пузырьками.
+Для полноценного раскрытия богатого вкуса рекомендуется взболтать банку круговыми движениями и перелить содержимое бокал. Продукт получил высокие оценки по результатам потребительского теста по наиважнейшим продуктовым характеристикам: богатство/насыщенность вкуса, сладость, горечь, плотность."
+Magners Original Irish Cider,Cider - Traditional / Apfelwein,4.5%,No,3.3,"When William Magner set out to make Ireland’s greatest cider in 1935, this is what he came up with. We’ve barely changed it since then, but why would we? Made with 17 different varieties of fallen apple, pressed and then kept in the dark to mature for a couple of years, it is the crispest way to celebrate any moment.
+Sold as Bulmers in the
+Republic of Ireland."
+Magners Pear Cider,Cider - Perry,4.5%,No,3.43,Magners Pear Cider is created to the highest standards you would expect from Magners. The best quality pears are ripened and selected to provide a distinctive character and the delicately refreshing taste of Magners Irish Pear Cider.
+Maisels Weisse Alkoholfrei,Non-Alcoholic Beer,No,10,3.21,"The appeal of this ideal fitness and wellness beverage for the sporting and nutrition-conscious aficionado lies in its high vitamin content, valuable minerals and trace elements as well as the fact that it has 50% fewer calories than Maisel's Weisse Original.//Das ideale Fitness- und Wellnessgetränk für den aktiven und ernährungsbewussten Genießer überzeugt durch einen hohen Anteil an Vitaminen, wertvollen Mineralstoffen und Spurenelementen und mit 40% weniger Kalorien als Maisel’s Weisse Original."
+Maisels Weisse Dunkel,Wheat Beer - Dunkelweizen,5%,12,3.54,"The painstaking composition of wheat malt and caramelized special malts, endows Maisel's Weisse Dunkel its reddish black mahogany color and its rich flavors.//Die sorgfältige Komposition aus Weizenmalz und schonend gerösteter karamellisierter Spezialmalze verleiht Maisel's Weisse Dunkel seine schwarz-rote Mahagonifarbe und seine große Geschmacksvielfalt."
+Maisels Weisse Original,Wheat Beer - Hefeweizen,5.2%,12,3.61," The bright reddish amber color and choice yeast from home-grown cultures, endow Maisel’s Weisse Original with its unique character.//
+
+Die rötlich leuchtende Bernsteinfarbe und die feine Hefe aus eigener Reinzucht geben Maisel’s Weisse Original ihren einzigartigen Charakter."
+Max&Jack's Lemon Gardenmint,Flavored Malt Beverage,4.7%,No,3.19,"Настоящий лимонад по вкусу и внешнему виду - словно выжали лимон и бросили в него листья душистой мяты. Освежающий, натуральный до последней капли, с бодрящим холодком в послевкусии.
+Max&Jack’s – это новое поколение натуральных напитков в сегменте FMB (flavored malt beverages – ароматизированные солодовые напитки), изготовленных на основе пива, созданных для современных людей, ценящих свободу самовыражения и искренность.
+Max&Jack’s производится по уникальной технологии на основе пива с добавлением фруктовых и ягодных соков."
+Max&Jack's Strawberry Lime,Flavored Malt Beverage,4.7%,No,2.86,"Дерзкий и соблазнительный, с возбуждающим ароматом, цвета спелой клубники, с цитрусово-ягодной свежей палитрой вкуса. Настоящий клубничный лимонад, для которого не жалко ни щедрой горсти сочных ягод, ни лайма.
+Max&Jack’s – это новое поколение натуральных напитков в сегменте FMB (flavored malt beverages – ароматизированные солодовые напитки), изготовленных на основе пива, созданных для современных людей, ценящих свободу самовыражения и искренность.
+Max&Jack’s производится по уникальной технологии на основе пива с добавлением фруктовых и ягодных соков."
+Miller Genuine Draft,Lager - American,4.66%,12,2.55,"Miller Genuine Draft debuted in 1985 with fresh, smooth flavor that's a result of being cold-filtered four times. As we capitalize on the growing trend towards \mainstream sophistication"
+Mister Lis Apple,Cider - Sweet,4.5%,No,3.09,"Лёгкий и освежающий сидр, приготовленный из российских яблок. Обладает приятной кислинкой с ярко выраженным яблочным послевкусием. Идеально подходит для тех, кто предпочитает легкие и более сладкие напитки."
+Mister Lis Forest Berries,Cider - Other Fruit,4.5%,No,2.89,Описание отсутствует
+Monk's Café Flemish Sour Ale,Sour - Flanders Oud Bruin,5.5%,No,3.84,"That's right, our own private label brewed for us by the family-owned Van Steenberge brewery, just outside Ghent, Belgium. Medium body, red color, somewhat fruity nose, malt flavor with a slight lactic taste. Great Stuff! A real thirst quencher and palate cleanser."
+Mort Subite Kriek Lambic,Lambic - Kriek,4%,No,3.48,Описание отсутствует
+Mort Subite Witte Lambic,Lambic - Fruit,5.5%,No,3.43,Описание отсутствует
+Newcastle Brown Ale,Brown Ale - English,4.7%,18,3.4,"Newcastle Brown Ale is a brand of beer produced by Heineken International. The beer was introduced in 1927 in Newcastle upon Tyne, England, by Newcastle Breweries, which became Scottish & Newcastle in 1960. In 2005, brewing was moved out of Newcastle for the first time to the other side of the River Tyne, to Dunston in Gateshead. In 2009, it was announced that production would move to Tadcaster North Yorkshire."
+Obolon Svitle,Lager - Pale,4.5%,No,2.71,Легке світле пиво з приємним солодовим смаком і стриманою гірчинкою.
+Osobaya Varka 387,Lager - Amber,6.8%,No,2.87,"Числовое название дано пиву не просто так – каждая цифра несёт в себе особый смысл и раскрывает технологию приготовления напитка:
+• 3 – это три вида солода: светлый, карамельный и жжёный;
+• 8 – это восемь часов варки в традиционных медных чанах;
+• 7 – это семь дней непрерывного брожения, в результате которого пиво «387. Особая варка» и получается таким ярким, насыщенным и оригинальным.
+
+That code is not a combination of random numbers. Each number means something special and represents the brewing technology:
+• 3 – means three type of malt: light, caramel and brown;
+• 8 – means the hours its takes to brew in traditional copper tanks;
+• 7 – means seven days of continuous fermentation after which one gets 387. Special Brewing – a brilliant beer with rich and original flavor. Caramel malt gives rich color whereas brown malt adds rye bread aftertaste. This light beer is slightly stronger than average, which makes its flavor more complex and pronounced."
+Otto Von Schrodder Hefeweizen,Wheat Beer - Hefeweizen,5%,21,3.15,Описание отсутствует
+Otto Von Schrodder Premium Lager,Lager - Pale,4.9%,21,2.94,Описание отсутствует
+Oyster Stout,Stout - Oyster,4.6%,32,3.51,"Rapidly becoming our best selling stout. A superbly balanced brew, smooth and rounded without being bland. More sweetness derived from fresh oysters shucked into the conditioning tank, what a way to go!
+But of course not suitable for vegetarians."
+Pabst Blue Ribbon,Lager - American,4.8%,10,2.82,This is the original Pabst Blue Ribbon Beer. Nature's choicest products provide its prized flavor. Only the finest of hops and grains are used. Selected as America's Best in 1893.
+Paulaner Hefe-Weisbier Dunkel,Wheat Beer - Dunkelweizen,5.3%,12,3.55,Описание отсутствует
+Paulaner Hefe-Weisbier Natural Wheat,Wheat Beer - Hefeweizen,5.5%,16,3.7,Описание отсутствует
+Paulaner Munchner Hell,Lager - Helles,4.9%,20,3.44,"Our Original Munich Lager is a true classic with its clear and bright gold sparkling hue, crowned by a pure white head. A beer which always goes down well: mild, elegant malts, with a hint of sweetness and a soft hint of hops in the background. This Munich beer is ideal to accompany spare ribs and spicy dishes. Just try it!"
+Paulaner Salvator,Bock - Doppelbock,7.9%,28,3.61,"Paulaner Salvator, with its strong, typically malty flavour, is what you could call the ""original"" Paulaner. The bottom-fermented ""Doppelbock"" beer combines the finest hops and dark barley malt. The Paulaner monks used to drink Salvator as a food substitute during Lent. The most famous master brewer was Frater Barnabas."
+Paulaner Weissbier,Non-Alcoholic Beer,No,No,3.09,"This mix is in a class of its own – combining the great taste of Paulaner Hefe-Weizen with natural effervescent lemonade in a non-alcoholic alternative for refreshingly fruity yet malty taste. The citrus notes of lime, orange, and lemon match the wheat beer perfectly and provide a uniquely balanced taste experience."
+Paulaner Weissbier,Wheat Beer - Hefeweizen,5.5%,16,3.67,"The No. 1 Hefe-Weißbier in Germany and one of the world’s favourites. Naturally cloudy and shining silky gold in the glass under a really strong head of foam. At the first mouthful this Weißbier classic has a mild aroma of banana. Finer palates detect a trace of mango and pineapple and the balance between sweet and bitter. Beer connoisseurs appreciate the fine note of yeast and the mild but sparkling mix of aromas. It is a typical beergarden beer, which brings people together all over the world."
+Paulaner Weissbier Non-Alcoholic,Non-Alcoholic Beer,0.5%,10,2.78,"Natürlich, isotonisch und kalorienreduziert – aufgrund der vielen wichtigen Nährstoffe ist unser Hefe-Weißbier Alkoholfrei, das ausschließlich aus natürlichen Zutaten gebraut wird, der ideale Durstlöscher für die aktive Freizeit.
+Mit nur 115 kcal pro Halbe hat unser Alkoholfreies weniger Kalorien als eine Apfelschorle und überzeugt dennoch durch den vollen Weißbiergeschmack seines großen Bruders: naturtrüb, spritzig-frisch und mit fruchtigen Aromen.
+
+ZUTATEN: Wasser, Gerstenmalz, Weizenmalz Hopfen
+
+HOPFENSORTEN: Herkules
+
+MALZSORTEN: Helles Weizenmalz, Dunkles Weizenmalz, Pilsner Malz
+(Helles Gerstenmalz), Münchner Malz (Dunkles Gerstenmalz)"
+Pauwel Kwak,Pale Ale - Belgian,8.4%,20,3.78,"In Napoleon's time Pauwel Kwak was a brewer and the owner of the 'De Hoorn' inn in Dendermonde. Mail coaches stopped there every day. But at that time coachmen were not allowed to leave their coach and horses in order to have their thirst quenched along with their passengers. As a result, the inventive innkeeper had a special Kwak glass blown that could be hung on the coach. In this way the coachman had his Kwak beer safely at hand.
+
+LOOK:
+Kwak is recognisable by its deep bright amber colour and a dense, creamy coloured head. The pale wood of the glass holder makes a pleasant contrast with the beer.
+
+SMELL:
+You will smell a mellow, fruity and malty aroma with a slightly spicy character (coriander, hops). Additional earthy and very subtle aromas of banana and perhaps also a whiff of pineapple or mango in the background.
+
+TASTE:
+Discover a very mellow, fruity attack, a nougat-like solidity, and a slightly spicy character with hints of liquorice passing into a warm finish that reminds you of caramelised banana. The bitterness always remains in the background but in the end emerges delicately."
+PERONI Nastro Azzurro,Lager - Pale,5.1%,24,3.15,"NOTE: ""Peroni"" Original and ""Peroni Nastro Azzuro"" are two different beers. Ensure you are checking into the correct one.
+
+Peroni Nastro Azzurro is 5.1% in alcohol by volume, subject to slight variations in different parts of the world. The beer was crafted with typical Italian care, and designed with the Mediterranean palate in mind. Roberto is the third generation from the Cavalli family to be master brewers for Birra Peroni, ensuring the high quality and standards of the beer. Italian passion, attention to detail and craftsmanship are the ingredients that now, and forever, will ensure the superior and authentic Italian taste of Peroni Nastro Azzurro."
+PERONI Nastro Azzurro Gluten Free,Gluten-Free,5.1%,23,2.92,"Peroni’s Italian brew masters have perfected a new gluten-free recipe for Italy’s most iconic beer – without compromising on taste. Peroni Nastro Azzurro Gluten Free has the same delicate balance of bitterness and citrus aromatic notes as Peroni Nastro Azzurro, as well as the trademark refreshing, clean finish. 
+
+The gluten-free beer uses exactly the same ingredients as regular Peroni Nastro Azzurro, including barley. A specific enzyme is added at the end of the brewing process which removes the gluten, ensuring Peroni Nastro Azzurro Gluten Free can be enjoyed by coeliacs or those choosing to lead a gluten-free lifestyle.
+
+Peron Nastro Azzurro Gluten Free has been endorsed by the Italian Coeliac Association."
+Petrus Aged RED,Sour - Fruited,8.5%,20,3.61,"Would you like to taste an intriguing beer? Then Petrus RED is definitely something for you. A beer for those who dare to take a risk. It has a full and powerful taste, with a pleasant cherry flavour. Be warned: it’s a very smooth beer."
+Petrus Bordo,Sour - Flanders Red Ale,5.5%,15,3.87,"Petrus Bordeaux is a smooth, velvety Flanders Red Ale aged in oak barrels for 2 years. A blend with a fresh, young brown ale keeps this beer balanced, giving it a soft roasted and caramel touch. Its name refers to the barrels used in the ageing process and the ruby red colour that reflects its warm and smooth finish. Do not be mistaken; thanks to the addition of a young brown ale to the barrel aged beer, it is extremely drinkable at only 5.5 ABV"
+Pilsner Urquell,Pilsner - Czech,4.4%,40,3.37,"In 1842, at our brewery in Plzeň, brewer Josef Groll introduced the world to the first golden ‘pilsner’ lager, and changed beer forever. His invention soon became the most popular style of beer on the planet.
+
+We’ve brewed Pilsner Urquell in the same brewery using the same recipe for over 175 years. Today, we still insist on using traditional methods, like triple decoction and parallel brewing in wooden lagering barrels. It takes longer but means we never compromise on our taste.
+
+Pilsner Urquell’s signature flavour balances sweetness from the triple-decocted malt, and bitterness from our Saaz hops. The thick head of dense wet foam adds smoothness and seals in flavour and aroma.
+
+In every sip of Pilsner Urquell you’ll notice a refreshing crispness from natural carbonation, then subtle caramel tones and a clean finish with a pleasing hoppy bitterness."
+Praga Dark Lager,Lager - Dark,4.5%,No,3.37,"Beer Praga Dark Lager (Prague dark) has a rich caramel color, a classic sweetish taste of malt and a minimum of bitterness. Beer with a delicate aroma of hops and a delicate aftertaste. Thick, natural brown foam. Serve beer recommended slightly chilled.
+"
+Praga Premium Pils,Pilsner - Czech,4.7%,25,3.16,"Praga Premium Pils beer (Prague Premium) is a traditional Czech light lager with a harmonious combination of bitterness and sweetness on the palate. In the production of beer used only high-quality natural raw materials of local production.
+
+The aroma of hop beer, after drinking beer remains a pleasant aftertaste. White foam, high and uniform. Serve chilled.
+
+In 2013, Praga Premium Pils beer (Prague Premium) won the Gold Medal in the ranking of the independent US agency BTI World Beer Championships. At the tasting held, Prague beer received 90 points, which corresponds to the category “Exceptional”.
+
+Praga Premium Pils is a sparkling, light and intoxicating drink, ideal to enjoy it alone, although it is good to combine it with chicken picates, corn salad or soft cheddar.
+
+Praga Premium Pils - perfectly made and perfectly refreshing."
+Prazacka,Pilsner - Czech,4%,No,3.09,"Tradiční české světlé pivo nižší stupňovitosti, svěží chuti a světle zlaté barvy, s příjemnou vůní a jemnou hořkostí.
+
+A traditional Czech pale beer of a lower volume characterized by its fresh taste, light golden colour, pleasant yeast aroma as well as mild bitterness."
+Puntigamer,Lager - Helles,5.1%,No,3.09,Описание отсутствует
+Radeberger Pilsner,Pilsner - German,4.8%,33,3.18,"Crowned the official drink by King Friedrich August III of Saxony, Radeberger, a pilsner style beer brewed near Dresden, is characterized by its dazzling and refreshing taste and has long been enjoyed by German nobility."
+Red Stripe,Lager - American,4.7%,23,3.09,Red Stripe is a 4.7% ABV pale lager brewed by Desnoes & Geddes in Jamaica. It was first introduced in 1928 from a recipe developed by Paul H. Geddes and Bill Martindale. It is also brewed in the Netherlands by Heineken.
+ROUGE DE FLEUR Cherry,Fruit Beer,3.8%,No,3.2,«Rouge de Fleur» – фруктовое пиво типа «крик» с добавлением натурального сока вишни.
+Saint-Omer Biere Blonde De Luxe,Blonde Ale,5%,No,2.88,Описание отсутствует
+SAMUEL ADAMS Boston Lager,Lager - Vienna,5%,30,3.42,"Samuel Adams Boston Lager® is the best example of the fundamental characteristics of a great beer, offering a full, rich flavor that is both balanced and complex. It is brewed using a decoration mash, a time consuming, traditional four vessel brewing process discarded by many contemporary brewers. This process brings forth a rich sweetness from the malt that makes it well worth the effort. Samuel Adams Boston Lager® also uses only the finest of ingredients including two row barley, as well as German Noble aroma hops. The exclusive use of two row barley not only imparts a full, smooth body but also gives the beer a wide spectrum of malt flavor ranging from slightly sweet to caramel to slightly roasted. The Noble hops varieties, Hallertau Mittelfruh and Tettnang Tettnanger, add a wide range of floral, piney and citrus notes, which are present from the aroma, through the flavor, to the lingering smooth finish. We take great pride in the Noble hops used in our beers. They are hand selected by Jim Koch and our other brewers from the world's oldest hops growing area. Among the world's most expensive, they cost twenty times as much as other hops."
+Sapporo,Lager - Pale,4.9%,18,3.17,"The original. The icon. Sapporo Premium Beer is a refreshing lager with a crisp, refined flavor and a clean finish. The perfect beer to pair with any meal and any occasion."
+Schlitz Helles,Lager - Helles,5%,No,2.91,Описание отсутствует
+Schlitz Non-Alcoholic,Non-Alcoholic Beer,0.5%,No,2.73,Описание отсутствует
+Schneider Weisse Helle Weisse,Wheat Beer - Hefeweizen,5.2%,14,3.61,"Enjoying the moment in high spirits: ""Meine helle Weisse"" - a bright wheat beer with the original Schneider Weisse aroma, full-bodied and intensive. Its mild freshness is reviving and lifts the senses. The perfect companion for daydreaming on a summer's afternoon - Bavarian zest for life!"
+Schnitzlbaumer Lagerbier Hell,Lager - Helles,4.9%,No,3.38,Описание отсутствует
+Schöfferhofer Grapefruit,Shandy / Radler,2.5%,No,3.58,"Now that you’ve discovered the new unique taste of our beer, we salute your ways to keep it fresh. As an original - the first to combine Hefeweizen beer and grapefruit juice, we’d like to introduce you to the “proper” pronunciation of our unusual and challenging name: Chauffeur + ah + (The) Hoff + ah!"
+Schöfferhofer Weizen,Wheat Beer - Hefeweizen,5%,14,3.5,Описание отсутствует
+Sheperd Neame 1698,Strong Ale - English,6.5%,26,3.55,"First brewed in 1998 to celebrate Shepherd Neame's tercentenary, this copper-bronze, bottle conditioned beauty is an intense yet uniquely intricate offering thrice-hopped during the brewing process. This adds rich resinous notes and spikes of citrus to a moreish strong ale already rife with notes of liquorice, Marsala wine, caramel and spicy orange. A frisson of dark fruit freshens the finish."
+Sheperd Neame DOUBLE STOUT,Stout - English,5.2%,No,3.55,Big dry roasted barley coffee flavours perfectly offset the chocolatey sweetness of the malts and make this a great dry stout.
+Sheperd Neame India Pale Ale,IPA - English,6.1%,40,3.37,"An historic brew that conjures up images of high seas and faraway places. An IPA encapsulates centuries of brewing tradition, a quintessentially strong and hoppy beer with a bold, stirring character. 
+Our India Pale Ale delivers this magnificently; pale in colour and generously bittered with locally grown Fuggles hops.
+ABV is 6.1% in bottle, 4.5% in cask."
+Sint Gummarus Dubbel,Belgian Dubbel,7.1%,29,3.39,"2 x TIMES ELECTED ""BEST BELGIAN DUBBEL BEER"" @ WORLD BEER AWARDS !!!
+GOLD WINNER @ WORLD BEER AWARDS 2017 + 2018 !!!
+Sint-Gummarus of Lier (born in Emblem, died ca. 714) was a Knight at the Court of Pippin of Herstal and according to the legend also the founder of the city of Lier.  He is the patron of all those who live with a fracture.  
+One of the miracles assigned to him is that he restored a broken tree with his belt. 
+So not only bone fractures, but also marriage breaks, since he had a bad marriage with an evil wife himself.
+Gummarus builds a chapel in Lier, where today is still a church.
+Apart from the story of the tree that started to grow back, he let a source spring from out of the ground by using his staff on the ground. The unique source would be perfect for healings of all kind of fractures.
+Every year on October 11th, pilgrims visit the Sint-Gummarus Church in the city of Lier to ask and pray for the health of bad fractures and also for his help to be preserved of fractures. About Gummarus, we know nothing with certainty but what we do know is that 
+Sint-Gummarus Dubbel is the younger brother of the Sint-Gummarus Tripel. This high fermented beer, with refermentation on the bottle, gives a nice spicy smell and aftertaste. A pure maltbeer with a pleasant alcohol percentage of 7,1% alc. vol.
+The bitterness with light notes of dark fruit into the beer is the ultimate extra in this amazing dubbel beer"
+Sint Gummarus Tripel,Belgian Tripel,8.3%,29,3.51,"Sint-Gummarus of Lier (born in Emblem, died ca. 714) was a Knight at the Court of Pippin of Herstal and according to the legend also the founder of the city of Lier.  He is the patron of all those who live with a fracture.  
+One of the miracles assigned to him is that he restored a broken tree with his belt. 
+So not only bone fractures, but also marriage breaks, since he had a bad marriage with an evil wife himself.
+Gummarus builds a chapel in Lier, where today is still a church.
+Apart from the story of the tree that started to grow back, he let a source spring from out of the ground by using his staff on the ground. The unique source would be perfect for healings of all kind of fractures.
+Every year on October 11th, pilgrims visit the Sint-Gummarus Church in the city of Lier to ask and pray for the health of bad fractures and also for his help to be preserved of fractures. 
+About Gummarus, we know nothing with certainty but what we do know is that Sint-Gummarus has inspired us to brew a delicious Triple and Double in his honour!
+Sint Gummarus was the first real Limburg Tripel beer ever brewed!
+Sint Gummarus Tripel of Brouwerij Cornelissen has a full flavor with a pleasant bitterness and a fruity flavor underlying with a final hoppy aftertaste.
+
+DETAILS BEER
+- strong tripel beer (blond)
+- high fermentation
+- refermentation in the bottle
+- 8,3% Alc. vol.
+
+AWARDS:
+bronze medal
+Brussels Beer Challenge 2013
+golden medal
+Barcelona craft beer awards 2017
+silver medal
+International"
+Smithwick's RED,Red Ale - Irish,4.5%,No,3.54,"Smithwick's is a clear beer with a rich ruby color and creamy head. Clean and delicate aroma with different individual notes: from the top fermentation by the Smithwick yeast come aromatic esters creating a fruity aroma. The Aroma Hops added late in the boil contribute clean fresh floral notes. Ale Malt contributes aroma hints of biscuit and caramel. 
+Refreshing and clean taste with a gentle balance of bitterness from the hops added early in the boil, sweet/malty notes from the ale malt, and hints of roast/coffee from the roasted barley."
+Somersby Apple,Cider - Sweet,4.5%,No,3.27,"The Somersby Apple Cider is made from fermented apple juice, with added apple juice, sugar and natural flavoring to give a crisp and delicious apple cider taste. It contains no artificial sweeteners, flavors or colourings. 
+
+Somersby is Carlsberg Group's biggest selling cider and was among the world's fastest growing international ciders in 2014. It is currently avaiable in more than 50 markets around the world.
+
+In recent years, cider has experienced a dramatic renaissance. Today, it is a very popular alternative to beer and wine, and a natural alternative to flavoured Ready-to-Drink products. 
+
+- 4.5% alc. vol. apple cider 
+- 55 kcal/100ml 
+- 12 months shelf life
+- Best served over ice"
+Somersby Blackberry,Cider - Other Fruit,4.5%,No,3.25,Описание отсутствует
+Somersby Mango & Lime,Cider - Other Fruit,4.5%,No,3.16,Описание отсутствует
+Somersby Pear,Cider - Perry,4.5%,No,3.17,"Somersby Pear Cider is made from fermented pear juice, with no artificial sweeteners, flavors or colourings. Somersby Pear cider offers a drink with sparkling bubbles and distinctive flavor of sweet pears and is for those wanting a fruity flavored cider with a breath of fresh and natural mild taste"
+Somersby Red Rhubarb,Cider - Other Fruit,4.5%,No,3.17,"Semi-sweet apple cider with a taste of red rhubarb.
+"
+Somersby Sparkling Rosé,Cider - Rosé,4.5%,No,3.07,Somersby Sparkling Rosé er en halv-sød smuk rosa æblecider med en sprudlende friskhed og en rund frugtig sødme. Den delikate og indbydende duft henter elementer fra blomster og dertil dybe frugtige undertoner fra røde bær.
+Somersby Watermelon,Cider - Other Fruit,4.5%,No,3.08,Описание отсутствует
+Spaten Munchen,Lager - Helles,5.2%,21,3.37,"Sold as Spaten Premium Lager in the U.S., Spaten München in the U.K. and Spaten Munich in Brazil"
+Spaten München Dunkel,Lager - Munich Dunkel,5.2%,19,3.46,Описание отсутствует
+Spitfire Kentish Ale,English Bitter,4.5%,36,3.25,"Spitfire is one of the UK’s best-loved beers with an international reputation as a Great British Classic.
+
+Since its inception as a one-off brew back in 1990, Spitfire has enjoyed phenomenal success, earning a Royal Warrant and protected status as a Kentish Ale.
+
+A true classic, Spitfire Amber (draught: 4.2% ABV; bottle/can/mini keg: 4.5% ABV) is the head of the Spitfire family and a true taste of Kent. It was first brewed to commemorate the 50th anniversary of the Battle of Britain, played out in the skies above Kentish soil. It is brewed using 100% Kentish hops, the finest malt and water drawn from a well deep beneath Shepherd Neame’s Faversham brewery.
+
+Spitfire Amber combines the pick of Kentish hops (Target, Challenger, East Kent Goldings, First Gold) to layer bitter orange marmalade flavour on top of sweet biscuits and caramel malts for a peppery dry finish.
+
+While the great taste has remained constant throughout its history, the Spitfire family has grown to include golden ale and lager, each imbued with the distinctive Spitfire spirit.
+
+Today Spitfire has a dynamic new look reflecting the nature of the iconic plane that inspired its creation and befitting its status as an ale of substance and character."
+St. Peters Cream Stout,Stout - English,6.5%,31,3.61,"Fuggles’ and ‘Challenger’ hops plus a blend of 5 local malts create an aromatic, strong, dark chocolate cream stout with a satisfying bittersweet aftertaste. Silver Medal winner in the International Beer Competition 2009 and Australian International Beer Challenge 2010 / 50 Best Beers 2006."
+St. Peters Honey Porter,Porter - English,4.5%,No,3.17,Описание отсутствует
+St. Peters Plum Porter,Porter - English,5%,No,3.54,"Dark full flavoured and fruity, made with the addition of chocolate malt in the mash, alongside choice English hops complementing the natural plum flavour."
+St. Peters Without Gold,Non-Alcoholic Beer,0.05%,No,2.41,"A refreshingly delicious golden coloured alcohol-free craft beer, which has an ever so slightly sweet malt flavour, combined with a pleasingly subtle citrus flavour in the mouth."
+St. Peters Without Original,Non-Alcoholic Beer,0.05%,No,2.14,"A delicious alcohol-free, full bodied ale, that’s dark amber in colour. It boasts a rich and malty taste that is bursting with lasting flavour, followed by a refreshing and delicate bitterness. Brewed with skill and patience at one of Britain's finest small breweries."
+St.Pierre Blond,Belgian Blonde,6.5%,No,3.38,"St Pierre is a blond Belgian abbey beer, full and fruity with a lightly smoked yeast aroma. This combination with a unique blend of herbs and spices gives this top-fermented beer a delicious warm and round flavour."
+St.Pierre Brune,Brown Ale - Belgian,6.5%,No,3.43,Описание отсутствует
+Stanley Cooper,Lager - Pale,4.9%,No,2.84,Lager from the heart of the world. Legend among the highest beers.
+Staroceske Tradicni,Lager - Pale,4.7%,No,3.16,Описание отсутствует
+Staropramen,Pilsner - Czech,5%,27,3.24,"Barva, pěna, vůně a chuť vytváří unikátní senzorický profil tohoto spodně kvašeného ležáku uvařeného z 2 druhů sladů a 5 druhů chmele, včetně žateckého, který je srdcem tohoto piva. Znalec ocení typickou pivní vůni a chuť, které ve vzájemné harmonii dávají tomuto středně až silně prokvašenému ležáku příjemnou pitelnost, ležákovou plnost s osvěžujícím řízem."
+Stella Artois,Pilsner - Other,5%,24,3.26,"Stella Artois was first brewed as a Christmas beer in Leuven. It was named Stella from the star of Christmas, and Artois after Sebastian Artois, founder of the brewery. It is brewed to perfection using the original Stella Artois yeast and the celebrated Saaz hops. It is the optimum premium lager, with its full flavour and clean crisp taste."
+Stella Artois 0.0,Non-Alcoholic Beer,No,No,2.64,Описание отсутствует
+STIEGL Goldbrau,Lager - Helles,5%,20,3.31,"Stiegl-Goldbräu is a traditional Salzburg beer specialty with 12° Plato and a characteristic golden-yellow color. A full-bodied beer with a gentle bitterness brewed using indigenous ingredients. Wonderfully refreshing and very agreeable.
+
+Goldgelbe Farbe, in der Nase frische Hopfennote, am Gaumen gut ausbalancierte Säure, süßliches Finish, sehr süffig."
+Strongbow,Cider - Dry,5%,No,3.38,"Strongbow is a brand of cider manufactured in England by Bulmers. It is the UK's most popular cider, accounting for more than half of the draught cider sold in British pubs. Strongbow is also unique in that it is produced with a Royal Warrant."
+Strongbow Gold Apple,Cider - Traditional / Apfelwein,5%,No,3.47,"Strongbow Gold Apple goes very well together with sweet and savoury snacks.
+Let’s invent new yummy rituals to tickle our taste buds! 
+
+Best served over ice."
+Svyturys Tradicinis,Bock - Hell / Maibock / Lentebock,6%,No,3.02,Описание отсутствует
+SweetWater 420 Extra Pale Ale,Pale Ale - American,5.7%,39,3.61,"SweetWater 420 Extra Pale Ale, our most popular brew, is a tasty West Coast Style Pale Ale with a stimulating hop character and a crisp finish. 1st brewed on April 20th 1997."
+SweetWater Goin' Coastal,IPA - American,6.1%,45,3.63,"Slip into some sunshine and step off the grid by Goin’ Coastal with this pineapple laced IPA. The bright aromas of the five citrus hop additions are accentuated by the tropical fruit of the pineapple. And just like those three day weekends, its finish is quick. Golden copper in color with a full malt bill to bring the balance to our year round offering."
+SweetWater IPA,IPA - American,6.3%,50,3.67,This mammoth IPA is defined by generous quantities of juicy American hops. The extensive dry hopping process contributes to its bright and flavorful character. This beer is unfiltered to leave all the natural flavors intact and bottle conditioned to stay super fresh.
+Thistle Draught,Lager - Pale,4.3%,No,2.87,Описание отсутствует
+Thistle Strong,Lager - Strong,7.7%,No,2.85,Описание отсутствует
+THRON LAGER,Lager - Pale,5%,No,2.83,Описание отсутствует
+THRON WEIZEN,Wheat Beer - Hefeweizen,5%,No,3.07,Описание отсутствует
+Toute L'Année Doux Cerise,Cider - Sweet,5.5%,No,3.47,TOUTE L'ANNEE pomme-cerise
+Tripel Karmeliet,Belgian Tripel,8.4%,16,4.0,"Tripel Karmeliet is still brewed to an authentic beer recipe from 1679 originating in the former Carmelite monastery in Dendermonde. Written over 300 years ago, this recipe describes the use of three kinds of grain: wheat, oats and barley.
+
+The name Tripel karmeliet thus refers both to its origin and its in-bottle refermentation. From many trial brews of multigrain tripels carried out at our brewery in the 90s, it appears that the particular historic combination of the 3 kinds of grain still remains the ideal blend."
+TUBORG Green,Pilsner - Other,4.6%,18,2.82,"Tuborg is a bottom-fermented lager beer, also brewed in Germany at 4.9% and at many other Carlsberg sites all over the world (ABV may vary). It's brewed from lager malt, a slightly roasted, bright type of malt which results in the well-known mild, fresh taste and aroma of flowers and grain. The beer is medium rich and lively with a moderate bitterness in the aftertaste.
+
+Also brewed on license in India with 5% ABV."
+Tucher Urbrau Hell,Lager - Helles,4.9%,No,3.25,"Unsere älteste Biersorte in bester Nürnberger Brautradition, die wir seit Generationen nach überlieferter Rezeptur brauen. Der Hallertauer Hopfen ""Tradition"" verleiht ihr ihre feine Bittere, während ausgewählte helle Malze für ein brillantes Farbenspiel im Glas und den vollmundigen Charakter mit süffig-milder, leicht süßlicher Note sorgen."
+VAN STEENBERGE PIRAAT,Belgian Strong Golden Ale,10.5%,23,3.64,"This light amber coloured Piraat with full foam head overwhelms with an aroma of bitter, spicy, malty and alcoholic scents. What follows is a perfect combination of malty, sweet and hopbitter tastes, after which you are drowned in a very long, semi-sweet after taste with bitter undertone."
+VanderGhinste Oud Bruin,Sour - Flanders Oud Bruin,5.5%,20,3.69,"Originally called ""Ouden Tripel"", this ancient West Flanders Brown beer has found a new élan as a regional specialty under its current name: ""VanderGhinste Roodbruin"".
+
+The main ingredients of our Vanderghinste Oud Bruin are malted barley, wheat, hops, water, and caramelized malts. These are used to brew a top-fermented beer.
+
+Blending this beer with lambic beer aged in oak for 18 months results in this specific West Flanders Brown beer. Its typical flavour is characterized by a well-balanced, hardly noticeable sourness.
+
+This first flavour impression is soon followed by a second pleasant discovery: a slight bitterness followed by a hint of sweetness."
+Veltins Pilsener,Pilsner - German,4.8%,30,3.17,"One of the finest examples of German Pilsner. Veltins Pilsener (4.8% ABV) is brewed using natural spring water from its own mountain. It has a delicate dry and clean palate, fine carbonated body, slight bitterness and a light citrus finish. Brewed in Sauerland, near Dortmund, to the German Purity Law 1516. Voted 'World's Best Pilsner' in the 2007 World Beer Awards."
+VELVET,Lager - Amber,5.1%,12,3.47,"Spodně kvašené pivo s výrazným vizuálním a chuťovým charakterem, jehož vznik byl inspirován tradiční anglickou recepturou.
+
+Kouzlo Velvetu spočívá v unikátní kombinací tří sladů, které jsou zpracovávány během zcela originálního výrobního postupu, v použití hořčejších chmelových odrůd, ve výběru nejkvalitnějšího sladovnického ječmene a speciálním způsobu čepování. Je charakteristický jemně nahořklou sametovou chutí, zlatohnědou barvou a lavinovým efektem, který vzniká ve sklenici po natočení a vrcholí v podobě bohaté krémové pěny. Charakter Velvetu a způsob jeho servírování činí z jeho pití rituál, který přináší zážitek všem smyslům.
+
+Velvet byl úspěšně uveden na trh v říjnu roku 1997 a od doby svého zrodu je nabízen v pečlivě vybíraných provozovnách, které svým vzhledem odpovídají výjimečnému charakteru značky.
+Velvet si hned na začátku své existence získal velkou oblibu a široký okruh konzumentů."
+Warsteiner Double Hopped,Pilsner - German,4.8%,No,3.11,"Sold as Herb in Germany and as Double Hopped in the US, this version of Warsteiner Premium Verum has extra Hallertau aroma hops added during the boil. 
+Doppelt gehopft ist dieses einzig Wahre eine natürlich-herbe Ergänzung zu dem Klassiker WARSTEINER Premium Verum.
+Der höhere Bitterwert im Vergleich zum Original wird durch eine erheblich größere Menge an Hallertauer Aromahopfen erzielt, der während der Würzekochung zweimal zu unterschiedlichen Zeiten zugegeben wird."
+Warsteiner Fresh Non-Alcoholic,Non-Alcoholic Beer,0.5%,No,2.58,"Neues Design – unverändert ausgezeichneter Geschmack: Warsteiner Alkoholfrei. Erfrischend mild und isotonisch, mit besten Zutaten und der Erfahrung aus über 265 Jahren Brautradition. Passend zu jedem Anlass, und zwar immer, wenn man auf Alkohol, aber nicht auf 100% Pilsgeschmack verzichten möchte."
+Warsteiner Premium,Pilsner - German,4.8%,28,3.21,"Enjoy this world-class international premium pilsener.
+
+Unique: the slightly tart taste experience.
+
+Exceptional: the top quality of the ingredients.
+
+Inimitable: the exquisite premium character.
+
+Pleasantly light: thanks to especially soft brewing water.
+
+“Öko-Test”: “First Class”
+
+The “Öko Test” magazine compared 46 beers including known brands distributed throughout Germany and regional brands. The Warsteiner Brewery’s Premium-Pils was rated “First Class” by the Öko-Test jurors as the best beer distributed throughout Germany from a family-run brewery (August 2009).
+
+This outstanding result impressively underscores Warsteiner’s traditional quality attributes."
+Weihenstephaner Original,Lager - Helles,5.1%,21,3.6,"A good beer takes its time. The long storage makes our yellow bright lager, “Original”, a flavourful beer enjoyed with fine pored, white foam. With a mild hoppy note and its pleasant fresh spicy taste, it goes very well with salads, poultry, stews or with a hearty snack. Brewed according to our centuries-old brewing tradition on the Weihenstephan hill."
+Westmalle Trappist Dubbel,Belgian Dubbel,7%,29,3.7,"Westmalle Dubbel is a dark, reddish-brown Trappist beer with a secondary fermentation in the bottle. The creamy head has the fragrance of special malt and leaves an attractive lace pattern in the glass. The flavour is rich and complex, herby and fruity with a fresh-bitter finish. It is a balanced quality beer with a soft feel in the mouth and a long, dry aftertaste. The Dubbel contains 7% alcohol."
+Westmalle Trappist Tripel,Belgian Tripel,9.5%,36,3.83,"Was first brewed in 1934 and the recipe has not changed since 1956. It is made with pale candy sugar and has a very pale color produced from a mash of light pilsener malts. Styrian Goldings hops are used along with some German varieties and the classic Saaz pilsener hop. After a long secondary fermentation, the Tripel Westmalle is bottled with a dose of sugar and yeast. This beer holds up well in the bottle over time and seems to soften with age."
+White Moon,Stout - Milk / Sweet,5.5%,20,3.85,"Обладает гармоничным сладковато-сливочным вкусом с умеренной горечью, который раскрывается мягкими оттенками шоколадного бисквита и тирамису в послевкусии. Идеально дополнит любой десерт или сам станет десертом!"
+Wolf's Brewery IPA,IPA - Session,5.9%,55,3.55,"Хорошо охмеленный индийский светлый эль с ярким и насыщенным ароматом тропических фруктов. Мощный вкус, в котором хорошо выраженная хмелевая горечь раскрывается в широком диапазоне от тропических фруктов до луговых цветов. Интенсивное и сухое хмелевое послевкусие."
+Wolf's Brewery Blanche De Mazay,Wheat Beer - American Pale Wheat,5.9%,45,3.44,"Белое пшеничное пиво сваренное с использованием американского хмеля Mosaic, создающим интересный насыщенный вкус и яркий аромат, в котором легко определить тона тропических фруктов и луговых цветов. "
+Wolf-s Brewery Nepravilnyi Mead,Mead - Other,4%,No,3.37,"Медовуха встречает интенсивным винным ароматом, в котором легко угадываются ноты мяты.
+Вкус сбалансированный, в то время как послевкусие долгое с заметным количеством сладости - хотя и не приторным. 
+
+Присутствие мяты делает аромат свежим , а вкусу придаёт едва уловимый охлаждающий
+эффект, делая знакомство с этим напитком более интересным."
+Wolf's Brewery Svetlachok,Lager - IPL (India Pale Lager),5%,35,3.49,"Американские хмели – «Каскад» и «Пекко» ярко раскрываются, создавая цветочно-фруктовый аромат. 
+Освежающий вкус с приятной характерной горчинкой несомненно запомнится насыщенным вкусом и ароматом. "
+Wolpertinger,Wheat Beer - Hefeweizen,5.4%,No,3.3,Описание отсутствует
+Wolpertinger Alkoholfrei,Non-Alcoholic Beer,0.5%,No,2.5,Описание отсутствует
+Wolpertinger Das Traditionelle Helle,Lager - Helles,5.1%,No,3.08,Описание отсутствует
+Wolters Pilsener,Pilsner - German,4.9%,No,3.18,Описание отсутствует
+Zatecky Gus Cherne,Lager - Dark,3.5%,14,2.89,"Темное пиво, сваренное в лучших чешских традициях, производится из отборного светлого, карамельного и жженого солода. Богатый вкус Zatecky Gus Cerny с нотками поджаренного солода, карамели и бархатным ароматом жатецкого хмеля создан в 2010 году специально для ценителей темного пива. Это пиво легко пьется и отлично сочетается с сытными блюдами домашней кухни.
+
+Пиво Zatecky Gus изготавливается под тщательным контролем чешского завода Zatecky Pivovar, который внимательно отслеживает на каждом этапе производства все технологические процессы, начиная от выбора хмеля, и заканчивая варкой пива."
+Zatecky Gus Svetly,Lager - Pale,4.6%,15,2.75,"Классический светлый лагер, с насыщенным хмелевым ароматом и приятным вкусом. Это пиво сварено по оригинальной чешской рецептуре с добавлением знаменитого ароматного хмеля сорта «Жатецкий». Его использование придает пиву особенный аромат и легкую горчинку, при этом оно легко пьется и имеет насыщенный полноценный вкус.
+
+Пиво Zatecky Gus изготавливается под тщательным контролем чешского завода Zatecky Pivovar, который внимательно отслеживает на каждом этапе производства все технологические процессы, начиная от выбора хмеля, и заканчивая варкой пива.
+
+Zatecky Gus (Zhatetsky goose) is a light lager with a light traditional flavor. This beer is brewed on the original recipe with addition of famous Czech aromatic hop of Zhatetsky variety. This hop gives the beer its specific aroma and slight bitterness. The new beer drinks easily."
+Zhiguli Barnoe,Lager - Pale,4.9%,20,3.01,"Пиво «Жигули Барное» варится по фирменному рецепту 1968 года. Пиво из легендарного московского ресторана «Жигули», воплотившее в себе лучшие традиции 20 века. Отборный солод, тонкоароматный жатецкий хмель и мягкая вода с глубины 320 метров придают пиву «Жигули Барное» индивидуальный, неповторимый вкус. Процесс брожения занимает 21 день, что позволяет сохранить уникальный аромат хмеля, придать пиву освежающую горчинку и полное солодовое «тело»."
+Zhiguli Barnoe Pshenichnoe,Wheat Beer - Hefeweizen,4.9%,11,3.06,"Пиво «Жигули Пшеничное» — нефильтрованное пиво верхового брожения с экстрактивностью начального сусла 11,4% и содержанием алкоголя 4,9%. Освежающее, великолепно сбалансированное пиво. Основной акцент сделан на чистый солодовый вкус и аромат. Низкий уровень горечи раскрывает приятную сладость в послевкусии."
+Zhiguli Barnoe Non-Alcoholic,Non-Alcoholic Beer,0.5%,No,2.78,"Благодаря особенной рецептуре от главного пивовара Михаила Ершова это безалкогольное пиво практически невозможно отличить от классических сортов пива, содержащих алкоголь. Во вкусе «Жигули Барное Безалкогольное» присутствует деликатная горчинка и легкая солодовая сладость, а в аромате - тонкие хмелевые тона. Основу пива составили светлый и карамельный солод, производство осуществляется методом остановки брожения. Как отмечают многие, уже попробовавшие это пиво, «Жигули Барное Безалкогольное» заставит понервничать других крупных производителей. Пиво действительно получилось отменным, ведь при его создании использовалось 8 сортов хмеля, а именно Tettnanger, Tradition, Hersbrucker, Golding, Jaryllo, Mandarina Bavaria, Cascade, Citra."
+Zlata Praha,Pilsner - Czech,4.7%,No,3.17,Blond pils: The beer for everyone. This beer has lower alcohol content and is characterized by its delicate taste. It is great as a refreshment during the day.
+Zolotaya Bochka Klassicheskoe,Lager - Pale,5.2%,No,2.6,"Пиво с янтарно-золотистым цветом, терпким вкусом с легкой горчинкой и несравненным ароматом. Этот сорт сварен по классическому рецепту и содержит очищенную питьевую воду, светлый ячменный солод и элитные сорта хмеля."
+Zotler Pils,Pilsner - German,4.9%,31,3.29,"Unser Pils überzeugt mit seiner glänzenden, hellgelben Farbe und seinem feinporigen Schaum. Der schlanke und ausgewogene Körper wird durch eine pilstypische, dezente Hopfennote abgerundet. Ein feines Allgäuer Pils."
+Bely Medved Svetloe,Lager - Pale,5%,No,2.55,"Пиво, сваренное по ГОСТу. Заботливо выращенный хмель, тщательно отобранный солод и мягкая вода делают вкус этого пива особенно бархатистым, насыщая его богатым ароматом. За долгие годы своего существования бренд прошел большой путь от региональной марки к национальному лидеру и сейчас является одним из крупнейших на российском рынке."
+Bely Medved Krepkoe,Lager - Strong,8%,No,2.61,"Этому сорту свойственен насыщенный янтарный цвет, а также богатая ароматика: уверенный фруктовый и легкий хмелевой аромат, в основе которого зеленое яблоко, чернослив и легкий зерновой аромат. Пиво «Белый Медведь Крепкое» отличается от конкурентов отсутствием спиртового послевкусия. Прекрасный выбор для тех, кто ценит крепкие сорта."
+Klinskoe Svetloe,Lager - Pale,4.7%,No,2.19,"Легкое светлое пиво, обладающее чистым вкусом и мягкой хмелевой горечью. Отличие ""Клинского ""Светлое"" от других марок — особая технология: при варке в него добавляется рис, что позволяет убрать свойственный пиву горький привкус.
+
+Light beer with clear flavor and mild hops bitterness. Klinskoe Light is made under a special technology: it is brewed with a dash of rice that removes bitter flavor that is co common in beer."
+Okhota Krepkoe,Lager - Strong,8.1%,No,2.43,"«Охота Крепкое» варится по традиционному рецепту, и содержание алкоголя достигается исключительно естественным способом, благодаря дополнительной выдержке и процессу брожения."
+Stary Melnik Iz Bochonka Myagkoe,Lager - Pale,4.3%,No,2.67,"Пиво с легким освежающим вкусом с тонкими хмелевыми нотками и приятным послевкусием. Особенностью производства данного сорта является добавление трех сортов хмеля в три этапа: для умеренной горечи, аромата и мягкости вкуса."
+Stary Melnik Iz Bochonka Svetloe,Lager - Pale,5%,No,2.69,Традиционное светлое пиво с насыщенным плотным вкусом и яркими хмелевыми нотками. Особенностью данного сорта является использование пророщенного на солодовнях отборного российского ячменя и специально подготовленной пивоваренной воды – для выразительности и чистоты вкуса.
+Stary Melnik iz Bochonka Temnoye Barhatnoe,Lager - Munich Dunkel,4.2%,No,2.86,"Особенностью является специальная рецептура, основанная на трех видах солода – светлого, жженого и карамельного. Благодаря этому, вкус пива получается мягким, бархатистым с умеренной горчинкой."
+Hmel & Friends Pale,Lager - Pale,4.8%,23,3.05,"Новый бренд от «Балтики» – «Хмель & Friends». В основе рецептуры лежит технология сухого охмеления сусла. В лаборатории «Балтики» сбалансировали процесс брожения так, чтобы хмелевые эфирные масла максимально сохранялись и раскрывались во вкусе. При изготовлении используются три сорта хмеля (Amarillo, Cascade, Citra).
+Нефильтрованный светлый лагер (Pale lager, 23 IBU, 9,5 EBC) имеет насыщенный золотистый цвет, яркий хмелевой аромат с цитрусовыми и цветочными оттенками. Во вкусе легкая солодовая сладость и выраженное хмелевое послевкусие."
+Hmel & Friends Vienna,Lager - Vienna,4.8%,22,2.93,"Новый бренд от «Балтики» – «Хмель & Friends». В основе рецептуры лежит технология сухого охмеления сусла. В лаборатории «Балтики» сбалансировали процесс брожения так, чтобы хмелевые эфирные масла максимально сохранялись и раскрывались во вкусе. 
+
+Нефильтрованный венский лагер по цвету ближе к тёмно-янтарному, лёгкий фруктовый аромат и вкус с оттенками хлебной корки. Бонусом приятная хмелевая горечь и мягкие пряно-цветочные оттенки в послевкусии."
