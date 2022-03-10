@@ -19,19 +19,17 @@ async def start(message: types.Message):
 @dp.message_handler(content_types=['photo'])
 async def handle_docs_photo(message):
     await message.photo[-1].download("input.jpg", make_dirs=False)
+    await message.answer('Фото принял, ищу пиво')
     await bot.send_chat_action(message.chat.id, ChatActions.TYPING)
-    await asyncio.sleep(3)
+    await asyncio.sleep(4)
     get_prediction()
-    if getinfo() == 'Я не вижу пиво':
+    result = getinfo()
+    if result == 'Я не вижу пиво':
         await message.answer('Я не вижу пиво')
     else:
-        name, style, ABV, IBU, rating, description  = getinfo()
-        await message.answer(name)
-        await message.answer(style)
-        await message.answer(ABV)
-        await message.answer(IBU)
-        await message.answer(rating)
-        #await message.answer(description)
+        name, style, ABV, IBU, rating, description  = result
+        answer = f'Вот что я нашел: \n<b>{name}</b> \n<b>Стиль</b>: {style} \n<b>Оценка</b>: {rating} из 5 \n<b>Крепость</b>: {ABV} \n<b>Плотность</b>: {IBU}'
+        await message.answer(answer, parse_mode = 'HTML')
 
 
 if __name__ == '__main__': #всегда тру

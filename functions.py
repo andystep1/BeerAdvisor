@@ -12,7 +12,7 @@ def extract_number(f):
     return (int(s[0]) if s else -1,f)
 
 def get_prediction():
-    os.system('python3 yolov5/detect.py --weights runs/train/exp/weights/v5.pt --img 416 --conf 0.1 --source input.jpg --save-txt --save-conf')
+    os.system('python3 yolov5/detect.py --weights runs/train/exp/weights/v7.pt --img 416 --conf 0.1 --source input.jpg --save-txt --save-conf')
 
 def get_txtpath():
     list_of_folders = [f.path for f in os.scandir('yolov5/runs/detect/') if f.is_dir()]
@@ -40,6 +40,7 @@ def getinfo():
     txt_path = get_txtpath()
     if txt_path == 404:
         return 'Я не вижу пиво'
+    print(txt_path)
     result = classname2info(yolo2classname(txt_path))
     name = result[0][0]
     style = result[0][1]
