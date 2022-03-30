@@ -1,6 +1,6 @@
 # Beer advisor
 
-This is a sourse for my pet project. Telegram bot that can recognize ±199 different beers and reply with based information.
+This is a source for my pet project. Telegram bot that can recognize ±199 different beers and reply with based information.
 Model Yolov5 was taken form *[Ultralytics](https://github.com/ultralytics/yolov5/)* and fine-tuned on 4k images
 
 ## Installation
